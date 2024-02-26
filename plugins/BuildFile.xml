@@ -1,5 +1,6 @@
 <use name="DataFormats/TrackReco"/>
 <use name="FWCore/Framework"/>
+<use name="FWCore/Utilities"/>
 <use name="FWCore/ParameterSet"/>
 <use name="FWCore/PluginManager"/>
 <use name="CommonTools/UtilAlgos"/>
@@ -7,4 +8,7 @@
 <use name="FWCore/ServiceRegistry"/>
 <use name="DataFormats/RecoCandidate"/>
 <use name="DataFormats/HcalRecHit"/>
+<use name="Geometry/Records"/>
+<use name="Geometry/HcalTowerAlgo"/>
+<use name="CondFormats/DataRecord"/>
 <flags EDM_PLUGIN="1"/>
