@@ -116,7 +116,7 @@ void plotsGen1(TString histLoc) {
 void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) {
     // Ouvrir le fichier ROOT
     EColor color[5] = {kBlue, kRed, kGreen, kBlack, kCyan};
-    TFile* file = new TFile("../python/histodemo.root", "READ");
+    TFile* file = new TFile("../python/histoAllReco.root", "READ");
 
     // Accéder au dossier "demo"
     TDirectory* demoFolder = file->GetDirectory("demo");
@@ -148,7 +148,7 @@ void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) 
     TH1D* histo1 = histo[0];
     histo1->Draw();
     histo1->SetStats(0);
-    histo1->SetTitle("Neutral Isolation");
+    histo1->SetTitle("HCAL Neutral Isolation");
     histo1->GetXaxis()->SetTitle("Isolation");
     histo1->GetYaxis()->SetTitle("Events (log)");
     TLegend* legend = new TLegend(0.6, 0.7, 0.8, 0.8);
@@ -171,6 +171,7 @@ void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) 
     canvas->Update();
     canvas->SaveAs(list[0]+".png");
     canvas->SaveAs(list[0]+".pdf");
+    canvas->SaveAs(list[0]+".svg");
 
     // Attendre que l'utilisateur ferme la fenêtre graphique
     canvas->WaitPrimitive();
@@ -183,7 +184,7 @@ void plots(){
     plotsGen("HcalNeutralIso", "HcalNeutralAodIso");
     plotsGen1("NofRecHit");
     std::cout<<"Starting the list"<<std::endl;
-    std::vector<TString> name = {"HcalNeutralIso", "HcalIsoTreshold", "HcalNeutralAodIso"};
-    std::vector<TString> legend = {"Local Iso", "Local Iso Threshold", "Aod Iso"};
+    std::vector<TString> name = {"HcalNeutralIso", "HcalNeutralAodIso", "HcalIsoTreshold"};
+    std::vector<TString> legend = {"Local Isolation", "Reco Isolation", "Local Iso with Treshold"};
     plotsGenList(name, legend);
 }
