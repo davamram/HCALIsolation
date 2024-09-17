@@ -1,0 +1,1546 @@
+Rucio client intialized for account damram
+CRAB project directory:		/gridgroup/cms/amram/EPR/CMSSW_13_3_3/src/ConeOptimisation/ConeOptimisation/python/crab_projects/crab_EGamma_crab_2022G
+Task name:			240913_181854:damram_crab_EGamma_crab_2022G
+Grid scheduler - Task Worker:	crab3@vocms0155.cern.ch - crab-prod-tw01
+Status on the CRAB server:	SUBMITTED
+Task URL to use for HELP:	https://cmsweb.cern.ch/crabserver/ui/task/240913_181854%3Adamram_crab_EGamma_crab_2022G
+Dashboard monitoring URL:	https://monit-grafana.cern.ch/d/cmsTMDetail/cms-task-monitoring-task-view?orgId=11&var-user=damram&var-task=240913_181854%3Adamram_crab_EGamma_crab_2022G&from=1726247934000&to=now
+Status on the scheduler:	SUBMITTED
+
+Jobs status:                    finished     		 99.9% (1514/1516)
+				running      		  0.1% (   1/1516)
+				transferring 		  0.1% (   1/1516)
+
+Output dataset:			/FakeDataset/fakefile-FakePublish-9c1c4a86418b47369e08b12f7b7a7a4b/USER
+
+No publication information available yet
+
+Extended Job Status Table:
+
+ Job State        Most Recent Site        Runtime   Mem (MB)      CPU %    Retries   Restarts      Waste       Exit Code
+   1 finished     T1_US_FNAL              0:01:44        106          6          0          0    0:02:53               0
+   2 finished     T1_FR_CCIN2P3           0:03:34        711         67          0          0    0:01:58               0
+   3 finished     T1_US_FNAL              0:01:40         47          1          0          0    0:02:49               0
+   4 finished     T1_US_FNAL              0:03:25       1055         76          0          0    0:01:58               0
+   5 finished     T1_US_FNAL              0:04:26       1037         63          0          0    0:02:00               0
+   6 finished     T1_FR_CCIN2P3           0:04:17        689         64          0          0    0:04:09               0
+   7 finished     T1_FR_CCIN2P3           0:04:01        811         60          0          0    0:07:31               0
+   8 finished     T1_FR_CCIN2P3           0:04:38        797         69          0          0    0:04:09               0
+   9 finished     T1_FR_CCIN2P3           0:03:59        702         70          0          0    0:07:38               0
+  10 finished     T1_FR_CCIN2P3           0:04:01        806         61          0          0    0:07:16               0
+  11 finished     T1_FR_CCIN2P3           0:03:59        804         62          0          0    0:07:36               0
+  12 finished     T1_FR_CCIN2P3           0:07:16        811         70          0          0    0:04:10               0
+  13 finished     T1_FR_CCIN2P3           0:04:01        799         64          0          0    0:07:23               0
+  14 finished     T1_FR_CCIN2P3           0:04:30        695         62          0          0    0:04:11               0
+  15 finished     T1_FR_CCIN2P3           0:03:56         59         77          0          0    0:02:23               0
+  16 finished     T1_FR_CCIN2P3           0:04:01        810         77          0          0    0:07:56               0
+  17 finished     T1_FR_CCIN2P3           0:04:02        809         24          0          0    0:05:47               0
+  18 finished     T1_FR_CCIN2P3           0:04:22        708         76          0          0    0:04:10               0
+  19 finished     T1_FR_CCIN2P3           0:04:01        710         66          0          0    0:07:35               0
+  20 finished     T1_FR_CCIN2P3           0:04:04        808         78          0          0    0:04:09               0
+  21 finished     T1_US_FNAL              0:04:23       1059         80          0          0    0:02:04               0
+  22 finished     T1_FR_CCIN2P3           0:03:45        720         83          0          0    0:00:38               0
+  23 finished     T1_FR_CCIN2P3           0:03:35         66         69          0          0    0:00:35               0
+  24 finished     T1_FR_CCIN2P3           0:03:57        807         82          0          0    0:00:52               0
+  25 finished     T1_FR_CCIN2P3           0:04:53         29         53          0          0    0:08:54               0
+  26 finished     T1_FR_CCIN2P3           0:04:15        700         78          0          0    0:00:28               0
+  27 finished     T1_FR_CCIN2P3           0:04:06        707         81          0          0    0:00:46               0
+  28 finished     T1_FR_CCIN2P3           0:03:28        807         75          0          0    0:00:28               0
+  29 finished     T1_FR_CCIN2P3           0:04:41        805         85          0          0    0:00:05               0
+  30 finished     T1_FR_CCIN2P3           0:04:53        802         64          0          0    0:08:53               0
+  31 finished     T1_FR_CCIN2P3           0:04:53         39         63          0          0    0:09:15               0
+  32 finished     T1_DE_KIT               0:05:30        988         70          0          0    0:05:01               0
+  33 finished     T1_DE_KIT               0:05:23        996         74          0          0    0:05:01               0
+  34 finished     T1_FR_CCIN2P3           0:06:19        812         67          0          0    0:05:01               0
+  35 finished     T1_FR_CCIN2P3           0:04:58        806         64          0          0    0:08:49               0
+  36 finished     T1_DE_KIT               0:05:15        982         68          0          0    0:05:01               0
+  37 finished     T1_FR_CCIN2P3           0:04:53         28         49          0          0    0:08:25               0
+  38 finished     T1_DE_KIT               0:06:22        990         73          0          0    0:05:01               0
+  39 finished     T1_FR_CCIN2P3           0:04:52         74         69          0          0    0:09:28               0
+  40 finished     T1_DE_KIT               0:04:52        915         14          0          0    0:07:03               0
+  41 finished     T1_DE_KIT               0:05:21        948         69          0          0    0:04:58               0
+  42 finished     T1_DE_KIT               0:04:51       1008         30          0          0    0:07:49               0
+  43 finished     T1_DE_KIT               0:05:30       1001         71          0          0    0:05:01               0
+  44 finished     T1_FR_CCIN2P3           0:04:44        840         62          0          0    0:09:05               0
+  45 finished     T1_DE_KIT               0:07:12       1009         77          0          0    0:05:01               0
+  46 finished     T1_FR_CCIN2P3           0:04:39        829         61          0          0    0:08:27               0
+  47 finished     T1_DE_KIT               0:05:06       1013         77          0          0    0:02:49               0
+  48 finished     T1_FR_CCIN2P3           0:03:39        820         80          0          0    0:03:28               0
+  49 finished     T1_FR_CCIN2P3           0:05:04        817         75          0          0    0:04:32               0
+  50 finished     T1_FR_CCIN2P3           0:06:50        814         71          0          0    0:04:41               0
+  51 finished     T1_FR_CCIN2P3           0:03:56         44         73          0          0    0:02:01               0
+  52 finished     T1_DE_KIT               0:07:32       1024         83          0          0    0:01:59               0
+  53 finished     T1_FR_CCIN2P3           0:03:31        819         77          0          0    0:01:57               0
+  54 finished     T1_FR_CCIN2P3           0:04:39        583         66          0          0    0:01:54               0
+  55 finished     T1_FR_CCIN2P3           0:03:52        822         74          0          0    0:02:01               0
+  56 finished     T1_FR_CCIN2P3           0:05:02        717         81          0          0    0:01:42               0
+  57 finished     T1_FR_CCIN2P3           0:04:51        811         79          0          0    0:01:28               0
+  58 finished     T1_US_FNAL              0:03:40       1073         72          0          0    0:00:48               0
+  59 finished     T1_US_FNAL              0:03:22         66         76          0          0    0:00:49               0
+  60 finished     T1_US_FNAL              0:02:46       1062         73          0          0    0:00:46               0
+  61 finished     T1_FR_CCIN2P3           0:04:12         67         67          0          0    0:01:13               0
+  62 finished     T1_FR_CCIN2P3           0:03:23        816         80          0          0    0:01:53               0
+  63 finished     T1_FR_CCIN2P3           0:03:26         76         74          0          0    0:00:59               0
+  64 finished     T1_FR_CCIN2P3           0:05:23        840         86          0          0    0:01:14               0
+  65 finished     T1_FR_CCIN2P3           0:03:35        711         79          0          0    0:00:57               0
+  66 finished     T1_FR_CCIN2P3           0:04:18         57         68          0          0    0:00:58               0
+  67 finished     T1_US_FNAL              0:07:57       1080         86          0          0    0:00:49               0
+  68 finished     T1_FR_CCIN2P3           0:09:51        781         80          0          0    0:00:51               0
+  69 finished     T1_US_FNAL              0:04:01         44         54          0          0    0:00:47               0
+  70 finished     T1_US_FNAL              0:07:36       1074         86          0          0    0:00:41               0
+  71 finished     T1_US_FNAL              0:06:46       1059         87          0          0    0:00:40               0
+  72 finished     T1_US_FNAL              0:03:15       1063         73          0          0    0:00:50               0
+  73 finished     T1_US_FNAL              0:03:26        964         80          0          0    0:00:49               0
+  74 finished     T1_US_FNAL              0:06:18       1035         71          0          0    0:00:44               0
+  75 finished     T1_US_FNAL              0:04:08       1068         75          0          0    0:00:46               0
+  76 finished     T1_US_FNAL              0:02:41         78         73          0          0    0:00:45               0
+  77 finished     T1_FR_CCIN2P3           0:04:15        832         82          0          0    0:00:48               0
+  78 finished     T1_FR_CCIN2P3           0:04:41         50         65          0          0    0:00:48               0
+  79 finished     T1_DE_KIT               0:07:51       1052         81          0          0    0:00:44               0
+  80 finished     T1_US_FNAL              0:05:00        947         78          0          0    0:00:40               0
+  81 finished     T1_US_FNAL              0:10:45       1089         71          0          0    0:00:40               0
+  82 finished     T1_US_FNAL              0:13:10       1090         64          0          0    0:00:45               0
+  83 finished     T1_US_FNAL              0:07:28       1075         66          0          0    0:00:41               0
+  84 finished     T1_US_FNAL              0:08:28       1084         74          0          0    0:00:40               0
+  85 finished     T1_US_FNAL              0:06:24       1090         87          0          0    0:00:45               0
+  86 finished     T1_US_FNAL              0:07:32       1074         64          0          0    0:00:42               0
+  87 finished     T1_US_FNAL              0:11:02       1078         70          0          0    0:00:45               0
+  88 finished     T1_US_FNAL              0:06:32       1063         78          0          0    0:00:44               0
+  89 finished     T1_US_FNAL              0:05:33       1080         78          0          0    0:00:38               0
+  90 finished     T1_US_FNAL              0:07:18       1076         66          0          0    0:00:40               0
+  91 finished     T1_US_FNAL              0:03:22       1067         72          0          0    0:00:46               0
+  92 finished     T1_US_FNAL              0:07:23       1039         79          0          0    0:00:41               0
+  93 finished     T1_US_FNAL              0:05:09        966         64          0          0    0:00:40               0
+  94 finished     T1_US_FNAL              0:04:03       1046         77          0          0    0:00:43               0
+  95 finished     T1_US_FNAL              0:07:04       1048         75          0          0    0:00:38               0
+  96 finished     T1_US_FNAL              0:03:03         44         73          0          0    0:00:37               0
+  97 finished     T1_US_FNAL              0:03:34        922         72          0          0    0:00:40               0
+  98 finished     T1_US_FNAL              0:05:37       1069         74          0          0    0:00:36               0
+  99 finished     T1_US_FNAL              0:08:01       1050         78          0          0    0:00:36               0
+ 100 finished     T1_FR_CCIN2P3           0:03:33        741         78          0          0    0:00:43               0
+ 101 finished     T1_US_FNAL              0:07:04       1086         82          0          0    0:00:45               0
+ 102 finished     T1_US_FNAL              0:10:01        979         78          0          0    0:00:46               0
+ 103 finished     T1_FR_CCIN2P3           0:02:41         47         39          0          0    0:00:45               0
+ 104 finished     T1_US_FNAL              0:08:17       1071         76          0          0    0:00:40               0
+ 105 finished     T1_US_FNAL              0:05:06        959         78          0          0    0:00:40               0
+ 106 finished     T1_US_FNAL              0:10:20       1061         73          0          0    0:00:39               0
+ 107 finished     T1_US_FNAL              0:04:06       1057         58          0          0    0:00:45               0
+ 108 finished     T1_US_FNAL              0:02:37        936         73          0          0    0:02:07               0
+ 109 finished     T1_US_FNAL              0:03:15       1036         69          0          0    0:00:45               0
+ 110 finished     T1_US_FNAL              0:10:34       1065         77          0          0    0:00:35               0
+ 111 finished     T1_US_FNAL              0:06:24       1078         83          0          0    0:00:43               0
+ 112 finished     T1_US_FNAL              0:04:48       1062         81          0          0    0:00:39               0
+ 113 finished     T1_US_FNAL              0:03:12       1039         56          0          0    0:00:40               0
+ 114 finished     T1_US_FNAL              0:06:17       1003         87          0          0    0:00:40               0
+ 115 finished     T1_US_FNAL              0:03:32       1035         71          0          0    0:00:39               0
+ 116 finished     T1_US_FNAL              0:04:56       1041         77          0          0    0:00:39               0
+ 117 finished     T1_US_FNAL              0:11:00       1065         67          0          0    0:00:38               0
+ 118 finished     T1_DE_KIT               0:03:37       1019         69          0          0    0:00:44               0
+ 119 finished     T1_US_FNAL              0:03:59        102         82          0          0    0:00:38               0
+ 120 finished     T1_US_FNAL              0:03:00       1044         68          0          0    0:00:39               0
+ 121 finished     T1_US_FNAL              0:03:31       1036         81          0          0    0:00:40               0
+ 122 finished     T1_US_FNAL              0:08:08       1051         65          0          0    0:00:39               0
+ 123 finished     T1_US_FNAL              0:03:10       1072         71          0          0    0:00:38               0
+ 124 finished     T1_FR_CCIN2P3           0:04:08        809         66          0          0    0:00:40               0
+ 125 finished     T1_FR_CCIN2P3           0:05:25        816         77          0          0    0:00:47               0
+ 126 finished     T1_US_FNAL              0:03:25       1049         65          0          0    0:00:38               0
+ 127 finished     T1_US_FNAL              0:06:20       1077         73          0          0    0:00:40               0
+ 128 finished     T1_US_FNAL              0:08:21       1066         84          0          0    0:00:38               0
+ 129 finished     T1_US_FNAL              0:05:06       1065         80          0          0    0:00:39               0
+ 130 finished     T1_US_FNAL              0:05:36       1069         80          0          0    0:00:38               0
+ 131 finished     T1_FR_CCIN2P3           0:05:46        814         74          0          0    0:00:40               0
+ 132 finished     T1_FR_CCIN2P3           0:03:25        801         75          0          0    0:00:40               0
+ 133 finished     T1_US_FNAL              0:03:15       1036         56          0          0    0:00:36               0
+ 134 finished     T1_US_FNAL              0:04:57        998         61          0          0    0:00:32               0
+ 135 finished     T1_US_FNAL              0:04:41       1062         82          0          0    0:00:35               0
+ 136 finished     T1_US_FNAL              0:05:44       1049         70          0          0    0:00:39               0
+ 137 finished     T1_US_FNAL              0:03:56        962         77          0          0    0:00:33               0
+ 138 finished     T1_US_FNAL              0:02:30        984         68          0          0    0:00:39               0
+ 139 finished     T1_US_FNAL              0:03:16        812         65          0          0    0:00:38               0
+ 140 finished     T1_US_FNAL              0:02:27       1042         78          0          0    0:00:40               0
+ 141 finished     T1_US_FNAL              0:03:30       1046         80          0          0    0:00:39               0
+ 142 finished     T1_US_FNAL              0:05:31       1071         83          0          0    0:00:40               0
+ 143 finished     T1_US_FNAL              0:05:32       1048         76          0          0    0:00:35               0
+ 144 finished     T1_US_FNAL              0:03:59       1026         79          0          0    0:00:39               0
+ 145 finished     T1_US_FNAL              0:04:38        101         73          0          0    0:00:35               0
+ 146 finished     T1_US_FNAL              0:04:14        984         64          0          0    0:00:40               0
+ 147 finished     T1_US_FNAL              0:05:35       1050         72          0          0    0:00:37               0
+ 148 finished     T1_US_FNAL              0:04:52        779         82          0          0    0:00:37               0
+ 149 finished     T1_US_FNAL              0:03:44       1043         76          0          0    0:00:40               0
+ 150 finished     T1_US_FNAL              0:02:43       1047         69          0          0    0:00:35               0
+ 151 finished     T1_US_FNAL              0:03:34        100         71          0          0    0:00:38               0
+ 152 finished     T1_US_FNAL              0:03:32       1064         68          0          0    0:00:36               0
+ 153 finished     T1_US_FNAL              0:05:23       1068         85          0          0    0:00:40               0
+ 154 finished     T1_FR_CCIN2P3           0:05:15        814         80          0          0    0:00:38               0
+ 155 finished     T1_US_FNAL              0:09:22       1013         81          0          0    0:00:40               0
+ 156 finished     T1_US_FNAL              0:06:07       1052         75          0          0    0:00:37               0
+ 157 finished     T1_US_FNAL              0:03:04       1058         77          0          0    0:00:35               0
+ 158 finished     T1_US_FNAL              0:04:38         92         76          0          0    0:00:34               0
+ 159 finished     T1_US_FNAL              0:05:00         58         70          0          0    0:00:35               0
+ 160 finished     T1_US_FNAL              0:04:45        946         81          0          0    0:00:38               0
+ 161 finished     T1_US_FNAL              0:05:05       1053         76          0          0    0:00:36               0
+ 162 finished     T1_US_FNAL              0:04:38       1059         80          0          0    0:00:40               0
+ 163 finished     T1_US_FNAL              0:05:02        946         73          0          0    0:00:40               0
+ 164 finished     T1_US_FNAL              0:03:04       1045         71          0          0    0:00:35               0
+ 165 finished     T1_DE_KIT               0:03:46        999         73          0          0    0:00:38               0
+ 166 finished     T1_US_FNAL              0:05:02       1039         80          0          0    0:00:37               0
+ 167 finished     T1_FR_CCIN2P3           0:05:36        804         70          0          0    0:00:38               0
+ 168 finished     T1_US_FNAL              0:03:54         67         67          0          0    0:00:36               0
+ 169 finished     T1_US_FNAL              0:03:17        844         65          0          0    0:00:30               0
+ 170 finished     T1_US_FNAL              0:06:50       1062         87          0          0    0:00:35               0
+ 171 finished     T1_US_FNAL              0:07:38       1068         88          0          0    0:00:35               0
+ 172 finished     T1_US_FNAL              0:06:25       1061         82          0          0    0:00:36               0
+ 173 finished     T1_US_FNAL              0:04:43       1059         83          0          0    0:00:35               0
+ 174 finished     T1_US_FNAL              0:05:48       1069         86          0          0    0:00:35               0
+ 175 finished     T1_US_FNAL              0:09:52       1064         80          0          0    0:00:34               0
+ 176 finished     T1_US_FNAL              0:04:06         75         84          0          0    0:00:35               0
+ 177 finished     T1_US_FNAL              0:03:49        969         82          0          0    0:00:35               0
+ 178 finished     T1_US_FNAL              0:03:34       1050         78          0          0    0:00:31               0
+ 179 finished     T1_US_FNAL              0:03:27        916         55          0          0    0:00:35               0
+ 180 finished     T1_FR_CCIN2P3           0:03:58        808         78          0          0    0:00:38               0
+ 181 finished     T1_US_FNAL              0:04:01         85         74          0          0    0:00:35               0
+ 182 finished     T1_US_FNAL              0:02:33         86         75          0          0    0:00:35               0
+ 183 finished     T1_US_FNAL              0:05:56       1038         73          0          0    0:00:36               0
+ 184 finished     T1_US_FNAL              0:03:49       1036         60          0          0    0:00:31               0
+ 185 finished     T1_US_FNAL              0:05:32       1065         85          0          0    0:00:36               0
+ 186 finished     T1_US_FNAL              0:05:46       1033         76          0          0    0:00:33               0
+ 187 finished     T1_US_FNAL              0:03:57       1045         84          0          0    0:00:35               0
+ 188 finished     T1_US_FNAL              0:03:46       1049         82          0          0    0:00:35               0
+ 189 finished     T1_US_FNAL              0:05:03         54         73          0          0    0:00:33               0
+ 190 finished     T1_US_FNAL              0:02:57       1047         66          0          0    0:00:35               0
+ 191 finished     T1_US_FNAL              0:02:34       1034         76          0          0    0:00:35               0
+ 192 finished     T1_FR_CCIN2P3           0:06:04        809         73          0          0    0:00:39               0
+ 193 finished     T1_US_FNAL              0:04:20        942         81          0          0    0:00:35               0
+ 194 finished     T1_US_FNAL              0:04:59       1057         84          0          0    0:00:34               0
+ 195 finished     T1_US_FNAL              0:03:23       1039         68          0          0    0:00:31               0
+ 196 finished     T1_US_FNAL              0:08:55       1038         83          0          0    0:00:36               0
+ 197 finished     T1_US_FNAL              0:04:44        106         84          0          0    0:00:34               0
+ 198 finished     T1_US_FNAL              0:06:12       1034         73          0          0    0:00:36               0
+ 199 finished     T1_US_FNAL              0:03:53        102         85          0          0    0:00:31               0
+ 200 finished     T1_US_FNAL              0:05:51       1061         83          0          0    0:00:34               0
+ 201 finished     T1_US_FNAL              0:07:32       1061         85          0          0    0:00:34               0
+ 202 finished     T1_US_FNAL              0:01:17       1002         42          0          0    0:00:36               0
+ 203 finished     T1_US_FNAL              0:03:11       1038         72          0          0    0:00:34               0
+ 204 finished     T1_US_FNAL              0:02:39        969         79          0          0    0:00:34               0
+ 205 finished     T1_US_FNAL              0:08:11       1055         86          0          0    0:00:34               0
+ 206 finished     T1_US_FNAL              0:04:17       1050         67          0          0    0:00:34               0
+ 207 finished     T1_US_FNAL              0:02:36       1028         76          0          0    0:00:35               0
+ 208 finished     T1_US_FNAL              0:06:19        952         80          0          0    0:00:34               0
+ 209 finished     T1_US_FNAL              0:04:42       1038         73          0          0    0:00:35               0
+ 210 finished     T1_US_FNAL              0:03:08        963         82          0          0    0:00:34               0
+ 211 finished     T1_US_FNAL              0:03:35        932         72          0          0    0:00:35               0
+ 212 finished     T1_US_FNAL              0:03:22       1027         79          0          0    0:00:35               0
+ 213 finished     T1_US_FNAL              0:05:19       1063         84          0          0    0:00:36               0
+ 214 finished     T1_US_FNAL              0:02:50        928         72          0          0    0:00:34               0
+ 215 finished     T1_US_FNAL              0:03:40       1046         72          0          0    0:00:34               0
+ 216 finished     T1_US_FNAL              0:03:46         71         79          0          0    0:00:32               0
+ 217 finished     T1_US_FNAL              0:03:21        830         76          0          0    0:00:31               0
+ 218 finished     T1_US_FNAL              0:07:06       1057         84          0          0    0:00:34               0
+ 219 finished     T1_US_FNAL              0:03:31       1048         79          0          0    0:00:35               0
+ 220 finished     T1_US_FNAL              0:04:04        990         70          0          0    0:00:31               0
+ 221 finished     T1_US_FNAL              0:04:18       1047         80          0          0    0:00:34               0
+ 222 finished     T1_US_FNAL              0:05:28       1036         70          0          0    0:00:31               0
+ 223 finished     T1_US_FNAL              0:03:23        100         67          0          0    0:00:37               0
+ 224 finished     T1_US_FNAL              0:03:04       1002         59          0          0    0:00:30               0
+ 225 finished     T1_US_FNAL              0:03:13        942         79          0          0    0:02:03               0
+ 226 finished     T1_FR_CCIN2P3           0:05:21        818         84          0          0    0:00:35               0
+ 227 finished     T1_FR_CCIN2P3           0:04:21        817         63          0          0    0:00:24               0
+ 228 finished     T1_US_FNAL              0:03:05        110         63          0          0    0:05:43               0
+ 229 finished     T1_FR_CCIN2P3           0:04:49        772         57          0          0    0:08:22               0
+ 230 finished     T1_DE_KIT               0:04:36         77         75          0          0    0:03:44               0
+ 231 finished     T1_DE_KIT               0:04:30        106         21          0          0    0:06:20               0
+ 232 finished     T1_FR_CCIN2P3           0:03:46         51         68          0          0    0:03:23               0
+ 233 finished     T1_DE_KIT               0:04:43        998         73          0          0    0:09:17               0
+ 234 finished     T1_US_FNAL              0:02:35        967         81          0          0    0:00:30               0
+ 235 finished     T1_DE_KIT               0:05:07        100         78          0          0    0:04:46               0
+ 236 finished     T1_US_FNAL              0:04:13       1003         44          0          0    0:07:15               0
+ 237 finished     T1_FR_CCIN2P3           0:03:58        804         74          0          0    0:00:31               0
+ 238 finished     T1_DE_KIT               0:05:39        992         82          0          0    0:04:35               0
+ 239 finished     T1_US_FNAL              0:03:08        845         81          0          0    0:06:14               0
+ 240 finished     T1_DE_KIT               0:06:20        993         83          0          0    0:04:44               0
+ 241 finished     T1_FR_CCIN2P3           0:04:28         74         67          0          0    0:08:34               0
+ 242 finished     T1_FR_CCIN2P3           0:03:22         12         75          0          0    0:00:38               0
+ 243 finished     T1_US_FNAL              0:02:25        937         77          0          0    0:00:33               0
+ 244 finished     T1_FR_CCIN2P3           0:05:25        820         87          0          0    0:03:33               0
+ 245 finished     T1_FR_CCIN2P3           0:05:29        815         79          0          0    0:03:52               0
+ 246 finished     T1_US_FNAL              0:02:59         70         62          0          0    0:05:20               0
+ 247 finished     T1_US_FNAL              0:03:00       1054         68          0          0    0:02:58               0
+ 248 finished     T1_US_FNAL              0:03:05        922         70          0          0    0:05:48               0
+ 249 finished     T1_US_FNAL              0:03:08        944         79          0          0    0:03:02               0
+ 250 finished     T1_US_FNAL              0:03:00         89         78          0          0    0:05:57               0
+ 251 finished     T1_US_FNAL              0:02:51       1048         64          0          0    0:05:18               0
+ 252 finished     T1_FR_CCIN2P3           0:05:12        812         77          0          0    0:03:13               0
+ 253 finished     T1_DE_KIT               0:05:02        995         80          0          0    0:02:55               0
+ 254 finished     T1_FR_CCIN2P3           0:04:24        717         78          0          0    0:03:13               0
+ 255 finished     T1_US_FNAL              0:02:55       1038         62          0          0    0:05:33               0
+ 256 finished     T1_FR_CCIN2P3           0:07:08        808         73          0          0    0:02:58               0
+ 257 finished     T1_DE_KIT               0:06:32       1035         81          0          0    0:02:48               0
+ 258 finished     T1_DE_KIT               0:04:18         76         79          0          0    0:02:49               0
+ 259 finished     T1_FR_CCIN2P3           0:05:09         74         66          0          0    0:03:12               0
+ 260 finished     T1_US_FNAL              0:04:01       1044         72          0          0    0:02:45               0
+ 261 finished     T1_US_FNAL              0:02:53        920         59          0          0    0:05:08               0
+ 262 finished     T1_US_FNAL              0:03:37       1055         71          0          0    0:02:38               0
+ 263 finished     T1_US_FNAL              0:03:59       1052         76          0          0    0:03:06               0
+ 264 finished     T1_US_FNAL              0:03:26       1040         68          0          0    0:02:31               0
+ 265 finished     T1_US_FNAL              0:04:48        928         66          0          0    0:02:43               0
+ 266 finished     T1_US_FNAL              0:02:52        110         79          0          0    0:02:39               0
+ 267 finished     T1_US_FNAL              0:03:09       1017         69          0          0    0:02:42               0
+ 268 finished     T1_FR_CCIN2P3           0:03:44        811         79          0          0    0:02:40               0
+ 269 finished     T1_US_FNAL              0:03:02       1048         71          0          0    0:02:27               0
+ 270 finished     T1_FR_CCIN2P3           0:04:59        816         85          0          0    0:02:31               0
+ 271 finished     T1_US_FNAL              0:05:15         41         71          0          0    0:02:32               0
+ 272 finished     T1_US_FNAL              0:04:29       1011         65          0          0    0:02:39               0
+ 273 finished     T1_US_FNAL              0:02:25       1045         73          0          0    0:02:25               0
+ 274 finished     T1_US_FNAL              0:03:47         87         57          0          0    0:02:25               0
+ 275 finished     T1_US_FNAL              0:02:29       1061         66          0          0    0:04:52               0
+ 276 finished     T1_US_FNAL              0:03:56       1042         74          0          0    0:02:33               0
+ 277 finished     T1_FR_CCIN2P3           0:03:22        809         75          0          0    0:02:22               0
+ 278 finished     T1_US_FNAL              0:04:39       1063         82          0          0    0:02:33               0
+ 279 finished     T1_US_FNAL              0:04:21       1055         78          0          0    0:02:32               0
+ 280 finished     T1_US_FNAL              0:03:52       1054         78          0          0    0:02:27               0
+ 281 finished     T1_US_FNAL              0:02:25       1050         68          0          0    0:02:27               0
+ 282 finished     T1_US_FNAL              0:04:27         55         68          0          0    0:02:34               0
+ 283 finished     T1_US_FNAL              0:03:09       1047         76          0          0    0:02:18               0
+ 284 finished     T1_FR_CCIN2P3           0:04:11        810         81          0          0    0:02:23               0
+ 285 finished     T1_US_FNAL              0:02:48       1043         79          0          0    0:02:16               0
+ 286 finished     T1_US_FNAL              0:03:30         97         80          0          0    0:02:11               0
+ 287 finished     T1_FR_CCIN2P3           0:05:46        797         71          0          0    0:02:24               0
+ 288 finished     T1_FR_CCIN2P3           0:03:06        811         77          0          0    0:02:18               0
+ 289 finished     T1_US_FNAL              0:02:59       1051         56          0          0    0:02:12               0
+ 290 finished     T1_US_FNAL              0:03:11        100         74          0          0    0:02:19               0
+ 291 finished     T1_US_FNAL              0:03:59       1048         71          0          0    0:02:19               0
+ 292 finished     T1_US_FNAL              0:05:06         44         73          0          0    0:02:11               0
+ 293 finished     T1_US_FNAL              0:03:42       1049         76          0          0    0:02:10               0
+ 294 finished     T1_US_FNAL              0:03:06       1064         72          0          0    0:02:14               0
+ 295 finished     T1_US_FNAL              0:03:21       1048         75          0          0    0:02:14               0
+ 296 finished     T1_US_FNAL              0:04:29         47         70          0          0    0:02:13               0
+ 297 finished     T1_US_FNAL              0:04:34       1048         68          0          0    0:02:06               0
+ 298 finished     T1_DE_KIT               0:05:28       1022         79          0          0    0:02:13               0
+ 299 finished     T1_US_FNAL              0:05:45       1045         77          0          0    0:02:08               0
+ 300 finished     T1_US_FNAL              0:03:34       1048         62          0          0    0:02:09               0
+ 301 finished     T1_US_FNAL              0:02:50       1050         71          0          0    0:02:07               0
+ 302 finished     T1_FR_CCIN2P3           0:03:53        806         77          0          0    0:02:07               0
+ 303 finished     T1_US_FNAL              0:03:06        960         75          0          0    0:02:04               0
+ 304 finished     T1_US_FNAL              0:03:37       1051         68          0          0    0:02:02               0
+ 305 finished     T1_US_FNAL              0:02:24         58         74          0          0    0:01:59               0
+ 306 finished     T1_US_FNAL              0:01:50       1042         55          0          0    0:03:38               0
+ 307 finished     T1_DE_KIT               0:03:22        127         73          0          0    0:02:01               0
+ 308 finished     T1_US_FNAL              0:02:24       1053         66          0          0    0:01:54               0
+ 309 finished     T1_US_FNAL              0:02:33       1056         65          0          0    0:01:51               0
+ 310 finished     T1_US_FNAL              0:04:13        915         81          0          0    0:01:49               0
+ 311 finished     T1_US_FNAL              0:03:36         41         54          0          0    0:01:49               0
+ 312 finished     T1_US_FNAL              0:04:31       1054         76          0          0    0:01:46               0
+ 313 finished     T1_US_FNAL              0:04:47        581         69          0          0    0:02:04               0
+ 314 finished     T1_US_FNAL              0:03:25        947         57          0          0    0:01:48               0
+ 315 finished     T1_US_FNAL              0:09:52        705         81          1          0    0:18:37               0
+ 316 finished     T3_UK_ScotGrid_GLA      5:46:44        881          1          0          0    0:01:23               0
+ 317 finished     T2_UK_SGrid_RALPP       0:06:34       1038         75          0          0    0:01:44               0
+ 318 finished     T3_UK_ScotGrid_GLA      5:08:36        857          1          0          0    0:01:03               0
+ 319 finished     T3_UK_ScotGrid_GLA     11:52:02       1027          1          0          0    0:01:20               0
+ 320 finished     T3_UK_ScotGrid_GLA     10:33:07        859          1          0          0    0:00:44               0
+ 321 finished     T2_UK_SGrid_RALPP       0:05:16       1033         74          0          0    0:01:37               0
+ 322 finished     T3_UK_ScotGrid_GLA     10:24:53        875          1          0          0    0:01:01               0
+ 323 finished     T2_UK_SGrid_RALPP       0:04:20       1018         68          0          0    0:01:44               0
+ 324 finished     T3_UK_ScotGrid_GLA      8:55:11       1038          0          1          0    4:25:16               0
+ 325 finished     T2_UK_SGrid_RALPP       0:07:39        931         71          0          0    0:01:38               0
+ 326 finished     T3_UK_ScotGrid_GLA     15:26:00        883          0          0          0    0:01:15               0
+ 327 finished     T1_FR_CCIN2P3           0:05:13        817         81          1          0    6:22:58               0
+ 328 finished     T2_UK_SGrid_RALPP       0:05:54       1002         76          0          0    0:01:41               0
+ 329 finished     T2_UK_SGrid_RALPP       0:06:34        981         77          1          0    3:39:17               0
+ 330 finished     T2_UK_SGrid_RALPP       0:05:49        939         81          0          0    0:01:44               0
+ 331 finished     T2_UK_SGrid_RALPP       0:06:17       1046         75          0          0    0:01:39               0
+ 332 finished     T2_UK_SGrid_RALPP       0:04:35        967         69          0          0    0:01:43               0
+ 333 finished     T2_UK_SGrid_RALPP       0:07:05       1034         73          2          0    7:32:54               0
+ 334 finished     T3_UK_ScotGrid_GLA      3:57:44        912          3          1          0    7:26:48               0
+ 335 finished     T3_UK_ScotGrid_GLA      7:45:52        908          1          0          0    0:01:00               0
+ 336 finished     T2_UK_SGrid_RALPP       0:06:37        910         53          1          0    1:53:57               0
+ 337 finished     T3_UK_ScotGrid_GLA     15:14:34       1037          0          1          0    2:15:49               0
+ 338 finished     T3_UK_ScotGrid_GLA      6:06:37        859          1          0          0    0:00:47               0
+ 339 finished     T3_UK_ScotGrid_GLA      8:59:37       1038          1          0          0    0:01:19               0
+ 340 finished     T3_UK_ScotGrid_GLA     16:14:10        892          0          0          0    0:00:41               0
+ 341 finished     T1_US_FNAL              0:05:28       1045         63          1          0    3:57:39               0
+ 342 finished     T3_UK_ScotGrid_GLA     15:14:56        843          1          0          0    0:01:02               0
+ 343 finished     T3_UK_ScotGrid_GLA      4:15:10        986          1          0          0    0:00:53               0
+ 344 finished     T3_UK_ScotGrid_GLA     12:53:33        847          1          0          0    0:01:10               0
+ 345 finished     T3_UK_ScotGrid_GLA      5:36:45        877          1          0          0    0:01:22               0
+ 346 finished     T3_UK_ScotGrid_GLA      7:29:59        867          1          0          0    0:00:57               0
+ 347 finished     T3_UK_ScotGrid_GLA      5:56:55        885          1          0          0    0:00:41               0
+ 348 finished     T3_UK_ScotGrid_GLA     17:49:46        853          0          0          0    0:01:10               0
+ 349 finished     T1_FR_CCIN2P3           0:05:54        794         82          1          0    0:44:36               0
+ 350 finished     T3_UK_ScotGrid_GLA     16:48:33        877          1          0          0    0:01:04               0
+ 351 finished     T2_UK_SGrid_RALPP       0:06:36        952         80          1          0    1:59:08               0
+ 352 finished     T1_FR_CCIN2P3           0:11:55        810         68          1          0    6:22:46               0
+ 353 finished     T3_UK_ScotGrid_GLA     17:16:27        886          0          0          0    0:01:10               0
+ 354 finished     T3_UK_ScotGrid_GLA     11:28:17       1057          1          1          0    3:19:47               0
+ 355 finished     T3_UK_ScotGrid_GLA     16:05:59        874          0          0          0    0:00:59               0
+ 356 finished     T2_UK_SGrid_RALPP       0:08:22       1008         69          1          0    2:55:44               0
+ 357 finished     T3_UK_ScotGrid_GLA     14:39:31        897          0          0          0    0:01:15               0
+ 358 finished     T3_UK_ScotGrid_GLA     11:10:05        866          0          0          0    0:00:29               0
+ 359 finished     T3_UK_ScotGrid_GLA      6:29:51        887          1          0          0    0:01:33               0
+ 360 finished     T1_US_FNAL              0:53:46       1059         83          1          0    8:02:49               0
+ 361 finished     T3_UK_ScotGrid_GLA     10:17:07        890          1          0          0    0:01:11               0
+ 362 finished     T3_UK_ScotGrid_GLA     12:30:25       1021          0          0          0    0:01:15               0
+ 363 finished     T3_UK_ScotGrid_GLA      6:02:36        896          1          0          0    0:01:23               0
+ 364 finished     T3_UK_ScotGrid_GLA     10:18:57        877          1          1          0    3:00:20               0
+ 365 finished     T3_UK_ScotGrid_GLA      8:46:26        887          1          0          0    0:00:46               0
+ 366 finished     T1_FR_CCIN2P3           0:05:38        811         84          1          0    2:29:05               0
+ 367 finished     T2_UK_SGrid_RALPP       0:08:36       1032         78          0          0    0:01:35               0
+ 368 finished     T3_UK_ScotGrid_GLA      9:22:44       1056          1          0          0    0:01:01               0
+ 369 finished     T3_UK_ScotGrid_GLA      5:52:06        875          1          0          0    0:00:57               0
+ 370 finished     T3_UK_ScotGrid_GLA      8:15:32        907          1          0          0    0:01:16               0
+ 371 finished     T3_UK_ScotGrid_GLA      9:52:14        886          1          0          0    0:00:24               0
+ 372 finished     T3_UK_ScotGrid_GLA     17:09:06        870          0          0          0    0:00:46               0
+ 373 finished     T1_FR_CCIN2P3           0:06:53        738         69          1          0    0:52:53               0
+ 374 finished     T3_UK_ScotGrid_GLA     15:20:03        762          1          0          0    0:01:05               0
+ 375 finished     T2_UK_SGrid_RALPP       0:06:04       1035         71          0          0    0:01:25               0
+ 376 finished     T1_FR_CCIN2P3           0:04:34        764         67          1          0    5:17:13               0
+ 377 finished     T1_US_FNAL              0:10:21       1041         81          1          0   17:55:41               0
+ 378 finished     T2_UK_SGrid_RALPP       0:05:26        976         81          1          0    1:23:27               0
+ 379 finished     T3_UK_ScotGrid_GLA      8:02:10       1048          1          0          0    0:01:13               0
+ 380 finished     T3_UK_ScotGrid_GLA      8:42:31        875          1          0          0    0:00:55               0
+ 381 finished     T2_UK_SGrid_RALPP       0:04:49        985         71          0          0    0:01:29               0
+ 382 finished     T2_UK_SGrid_RALPP       0:06:41       1000         76          0          0    0:01:25               0
+ 383 finished     T1_US_FNAL              0:06:29       1020         79          2          1   18:25:11               0
+ 384 finished     T3_UK_ScotGrid_GLA     18:07:09        896          0          0          0    0:00:27               0
+ 385 finished     T3_UK_ScotGrid_GLA      7:27:38       1076          1          1          0    8:46:43               0
+ 386 finished     T3_UK_ScotGrid_GLA     15:10:54        905          0          0          0    0:00:58               0
+ 387 finished     T3_UK_ScotGrid_GLA      6:48:08        871          1          0          0    0:01:02               0
+ 388 finished     T3_UK_ScotGrid_GLA     17:27:04        883          0          0          0    0:00:09               0
+ 389 finished     T1_FR_CCIN2P3           0:10:29        807         79          2          1   18:26:09               0
+ 390 finished     T2_UK_SGrid_RALPP       0:06:38        958         77          0          0    0:01:25               0
+ 391 finished     T3_UK_London_RHUL       0:12:21       1042         56          1          0    8:46:06               0
+ 392 finished     T3_UK_ScotGrid_GLA      8:41:36        863          1          1          0    8:22:19               0
+ 393 finished     T1_US_FNAL              0:11:42       1053         70          3          0   10:51:53               0
+ 394 finished     T3_UK_ScotGrid_GLA      7:33:56        872          1          0          0    0:01:10               0
+ 395 finished     T1_US_FNAL              0:10:16       1039         79          1          0    0:20:09               0
+ 396 finished     T2_UK_SGrid_RALPP       0:06:46        969         73          1          0    3:31:56               0
+ 397 finished     T2_UK_SGrid_RALPP       0:05:53        989         82          0          0    0:01:25               0
+ 398 finished     T3_UK_ScotGrid_GLA      4:57:07        877          1          0          0    0:01:15               0
+ 399 finished     T1_US_FNAL              0:04:24       1047         73          3          1   18:22:11               0
+ 400 finished     T2_UK_SGrid_RALPP       0:05:17       1002         81          3          1   18:26:42               0
+ 401 finished     T3_UK_ScotGrid_GLA     15:07:52        874          0          0          0    0:00:30               0
+ 402 finished     T3_UK_ScotGrid_GLA      5:06:28        893          1          0          0    0:00:59               0
+ 403 running      T3_UK_ScotGrid_GLA      4:35:34       1028          1          3          1   18:22:50         Unknown
+ 404 finished     T2_UK_SGrid_RALPP       0:05:57        928         79          0          0    0:01:26               0
+ 405 finished     T2_UK_SGrid_RALPP       0:04:52         91         76          3          1   18:22:58               0
+ 406 finished     T1_US_FNAL              0:06:00        979         82          2          1   18:25:52               0
+ 407 finished     T3_UK_ScotGrid_GLA     12:44:57        876          0          0          0    0:00:36               0
+ 408 finished     T3_UK_ScotGrid_GLA      8:41:23        875          1          1          0    2:53:24               0
+ 409 finished     T2_UK_SGrid_RALPP       0:06:05        982         81          0          0    0:01:26               0
+ 410 finished     T2_UK_SGrid_RALPP       0:06:24        972         70          1          0    2:59:57               0
+ 411 finished     T3_UK_ScotGrid_GLA      7:26:26        888          1          0          0    0:00:38               0
+ 412 finished     T2_UK_SGrid_RALPP       0:05:40       1027         81          0          0    0:01:26               0
+ 413 finished     T2_UK_SGrid_RALPP       0:06:16       1010         78          0          0    0:02:01               0
+ 414 finished     T2_UK_SGrid_RALPP       0:06:06        975         76          0          0    0:02:08               0
+ 415 finished     T2_UK_SGrid_RALPP       0:05:51       1018         82          0          0    0:01:23               0
+ 416 finished     T2_UK_SGrid_RALPP       0:05:45       1031         74          0          0    0:02:03               0
+ 417 finished     T2_UK_SGrid_RALPP       0:06:29       1019         75          0          0    0:02:03               0
+ 418 finished     T3_UK_ScotGrid_GLA      6:07:00       1067          1          1          0    8:44:48               0
+ 419 finished     T2_UK_SGrid_RALPP       0:06:06       1008         79          0          0    0:01:26               0
+ 420 finished     T3_UK_ScotGrid_GLA     10:19:00        869          1          0          0    0:00:56               0
+ 421 finished     T2_UK_SGrid_RALPP       0:05:37        966         67          0          0    0:02:01               0
+ 422 finished     T3_UK_ScotGrid_GLA     15:24:26        873          0          0          0    0:01:27               0
+ 423 finished     T2_UK_SGrid_RALPP       0:05:29        991         74          0          0    0:02:02               0
+ 424 finished     T1_US_FNAL              0:11:24       1048         76          2          1   18:22:30               0
+ 425 finished     T2_UK_SGrid_RALPP       0:06:56       1005         77          1          0    2:10:38               0
+ 426 finished     T2_UK_SGrid_RALPP       0:07:25       1009         76          0          0    0:02:02               0
+ 427 finished     T2_UK_SGrid_RALPP       0:06:23       1039         78          0          0    0:02:24               0
+ 428 finished     T3_UK_ScotGrid_GLA      8:16:33        879          1          1          0    7:05:15               0
+ 429 finished     T3_UK_ScotGrid_GLA     16:46:02        870          0          0          0    0:00:47               0
+ 430 finished     T3_UK_ScotGrid_GLA      5:23:38        995          1          1          0   12:49:22               0
+ 431 finished     T2_UK_SGrid_RALPP       0:06:30       1004         73          0          0    0:01:23               0
+ 432 finished     T2_UK_SGrid_RALPP       0:09:08       1047         82          0          0    0:02:02               0
+ 433 finished     T3_UK_ScotGrid_GLA      9:28:20        754          1          0          0    0:01:26               0
+ 434 finished     T1_US_FNAL              0:10:12       1038         77          1          0    7:57:47               0
+ 435 finished     T2_UK_SGrid_RALPP       0:06:16        955         78          1          0    3:31:27               0
+ 436 finished     T3_UK_ScotGrid_GLA      8:03:26        872          1          0          0    0:01:11               0
+ 437 finished     T2_UK_SGrid_RALPP       0:06:05        935         80          0          0    0:02:05               0
+ 438 finished     T3_UK_ScotGrid_GLA      8:14:36        868          1          0          0    0:01:23               0
+ 439 finished     T3_UK_ScotGrid_GLA      9:29:59        891          1          0          0    0:00:55               0
+ 440 finished     T3_UK_ScotGrid_GLA      7:23:08        879          1          0          0    0:01:29               0
+ 441 finished     T2_UK_SGrid_RALPP       0:04:37        954         78          1          0    1:15:13               0
+ 442 finished     T2_UK_SGrid_RALPP       0:04:28        982         76          0          0    0:01:59               0
+ 443 finished     T3_UK_ScotGrid_GLA      5:28:33       1005          1          0          0    0:01:40               0
+ 444 finished     T3_UK_ScotGrid_GLA      6:10:07        891          1          0          0    0:00:39               0
+ 445 finished     T1_FR_CCIN2P3           0:04:37        716         81          2          0    6:20:59               0
+ 446 finished     T1_FR_CCIN2P3           0:06:54        505         67          1          0    3:10:59               0
+ 447 finished     T1_US_FNAL              0:05:04        960         84          1          0    0:52:35               0
+ 448 finished     T3_UK_ScotGrid_GLA     11:57:25        893          1          0          0    0:01:30               0
+ 449 finished     T3_UK_ScotGrid_GLA     11:04:24       1036          1          1          0    3:13:49               0
+ 450 finished     T3_UK_ScotGrid_GLA     13:30:43        874          1          0          0    0:01:23               0
+ 451 finished     T1_FR_CCIN2P3           0:05:24        777         78          1          0    2:59:02               0
+ 452 finished     T3_UK_ScotGrid_GLA      7:35:09        889          1          0          0    0:01:18               0
+ 453 finished     T1_US_FNAL              0:11:01       1059         71          1          0    2:29:45               0
+ 454 finished     T3_UK_ScotGrid_GLA      7:22:50        886          1          0          0    0:01:30               0
+ 455 finished     T3_UK_ScotGrid_GLA     11:02:22        860          1          0          0    0:01:33               0
+ 456 finished     T1_FR_CCIN2P3           0:07:08        808         68          1          0    2:26:22               0
+ 457 finished     T2_UK_SGrid_RALPP       0:06:10       1014         81          0          0    0:01:57               0
+ 458 finished     T3_UK_ScotGrid_GLA     17:04:23        876          0          0          0    0:01:16               0
+ 459 finished     T3_UK_ScotGrid_GLA      7:57:14        889          1          0          0    0:01:04               0
+ 460 finished     T3_UK_ScotGrid_GLA      9:51:02        743          1          0          0    0:01:19               0
+ 461 finished     T3_UK_ScotGrid_GLA     10:23:17        860          1          0          0    0:01:16               0
+ 462 finished     T1_FR_CCIN2P3           0:06:06        812         76          1          0    5:01:34               0
+ 463 finished     T1_US_FNAL              0:24:54       1065         83          1          0    4:22:54               0
+ 464 finished     T2_UK_SGrid_RALPP       0:05:26        959         71          0          0    0:00:31               0
+ 465 finished     T1_US_FNAL              0:04:37       1019         76          1          0    3:40:52               0
+ 466 finished     T3_UK_ScotGrid_GLA     10:40:08        883          1          0          0    0:01:04               0
+ 467 finished     T1_FR_CCIN2P3           0:06:00        813         81          1          0    3:32:37               0
+ 468 finished     T3_UK_ScotGrid_GLA      8:03:40        815          1          0          0    0:01:04               0
+ 469 finished     T2_UK_SGrid_RALPP       0:06:24        937         82          0          0    0:01:39               0
+ 470 finished     T3_UK_ScotGrid_GLA      9:32:09        825          1          0          0    0:00:23               0
+ 471 finished     T3_UK_ScotGrid_GLA      7:53:11        872          1          0          0    0:01:20               0
+ 472 finished     T2_UK_SGrid_RALPP       0:04:19         46         77          0          0    0:00:19               0
+ 473 finished     T1_FR_CCIN2P3           0:04:55         32         76          1          0    0:29:30               0
+ 474 finished     T2_UK_SGrid_RALPP       0:05:42       1033         81          0          0    0:00:44               0
+ 475 finished     T2_UK_SGrid_RALPP       0:07:14        976         70          0          0    0:00:30               0
+ 476 finished     T2_UK_SGrid_RALPP       0:05:19        962         73          0          0    0:04:55               0
+ 477 finished     T1_FR_CCIN2P3           0:06:03        770         83          1          0    2:07:55               0
+ 478 finished     T2_UK_SGrid_RALPP       0:06:02        992         78          0          0    0:00:30               0
+ 479 finished     T2_UK_SGrid_RALPP       0:05:40       1039         79          0          0    0:00:23               0
+ 480 finished     T2_UK_SGrid_RALPP       0:05:20       1047         80          0          0    0:01:21               0
+ 481 finished     T2_UK_SGrid_RALPP       0:05:27       1030         79          0          0    0:00:56               0
+ 482 finished     T2_UK_SGrid_RALPP       0:06:01       1024         77          0          0    0:03:36               0
+ 483 finished     T2_UK_SGrid_RALPP       0:05:47        979         80          0          0    0:00:24               0
+ 484 finished     T2_UK_SGrid_RALPP       0:06:21       1011         81          0          0    0:05:04               0
+ 485 finished     T2_UK_SGrid_RALPP       0:06:16        959         78          0          0    0:00:02               0
+ 486 finished     T2_UK_SGrid_RALPP       0:04:19        971         64          0          0    0:00:20               0
+ 487 finished     T2_UK_SGrid_RALPP       0:06:11        971         77          0          0    0:04:08               0
+ 488 finished     T3_UK_ScotGrid_GLA      9:57:08        887          0          0          0    0:03:26               0
+ 489 finished     T2_UK_SGrid_RALPP       0:05:52        928         82          0          0    0:04:58               0
+ 490 finished     T3_UK_ScotGrid_GLA      4:13:32        883          1          0          0    0:03:14               0
+ 491 finished     T3_UK_ScotGrid_GLA      9:27:15        877          1          0          0    0:02:49               0
+ 492 finished     T2_UK_SGrid_RALPP       0:05:59       1035         79          1          0    1:28:38               0
+ 493 finished     T1_FR_CCIN2P3           0:07:43        796         67          1          0    1:41:10               0
+ 494 finished     T2_UK_SGrid_RALPP       0:05:38        967         78          0          0    0:03:35               0
+ 495 finished     T3_UK_ScotGrid_GLA      9:47:48        892          1          0          0    0:02:57               0
+ 496 finished     T3_UK_ScotGrid_GLA     13:28:15        864          1          0          0    0:03:14               0
+ 497 finished     T3_UK_ScotGrid_GLA     10:28:47        799          1          0          0    0:02:55               0
+ 498 finished     T3_UK_ScotGrid_GLA      6:05:22        885          1          0          0    0:02:51               0
+ 499 finished     T3_UK_ScotGrid_GLA      9:59:29       1027          0          1          0    2:34:35               0
+ 500 finished     T2_UK_SGrid_RALPP       0:03:34        986         76          0          0    0:03:28               0
+ 501 finished     T3_UK_ScotGrid_GLA     10:04:25        878          1          0          0    0:02:37               0
+ 502 finished     T3_UK_ScotGrid_GLA     16:13:56        869          0          0          0    0:02:46               0
+ 503 finished     T3_UK_ScotGrid_GLA     12:23:44       1066          1          1          0    1:28:13               0
+ 504 finished     T2_UK_SGrid_RALPP       0:06:30       1028         82          0          0    0:03:29               0
+ 505 finished     T3_UK_ScotGrid_GLA     12:18:33        896          1          0          0    0:02:58               0
+ 506 finished     T3_UK_ScotGrid_GLA      9:46:32        879          1          0          0    0:02:28               0
+ 507 finished     T2_UK_SGrid_RALPP       0:04:27        938         76          0          0    0:03:21               0
+ 508 finished     T3_UK_ScotGrid_GLA     10:12:35        903          1          1          0    2:43:55               0
+ 509 finished     T3_UK_ScotGrid_GLA     13:56:03        867          0          0          0    0:03:02               0
+ 510 finished     T2_UK_SGrid_RALPP       0:06:03        982         71          0          0    0:03:26               0
+ 511 finished     T2_UK_SGrid_RALPP       0:05:31       1032         80          0          0    0:03:22               0
+ 512 finished     T1_US_FNAL              0:17:39       1052         61          2          1   18:19:39               0
+ 513 finished     T1_US_FNAL              0:08:54       1014         86          1          0    8:36:43               0
+ 514 finished     T1_FR_CCIN2P3           0:06:24        797         72          1          0    6:21:53               0
+ 515 finished     T1_US_FNAL              0:11:12       1050         75          2          1   18:19:51               0
+ 516 finished     T3_UK_ScotGrid_GLA      8:24:45       1072          1          1          0    0:49:54               0
+ 517 finished     T2_UK_SGrid_RALPP       0:05:43        988         73          1          0    1:20:28               0
+ 518 finished     T2_UK_SGrid_RALPP       0:04:04        969         74          0          0    0:03:23               0
+ 519 finished     T2_UK_SGrid_RALPP       0:05:56       1009         79          1          0    1:13:05               0
+ 520 finished     T2_UK_SGrid_RALPP       0:06:14       1003         79          0          0    0:03:23               0
+ 521 finished     T2_UK_SGrid_RALPP       0:06:24       1033         81          0          0    0:03:21               0
+ 522 finished     T3_UK_ScotGrid_GLA      5:46:29        807          1          0          0    0:02:53               0
+ 523 finished     T3_UK_ScotGrid_GLA      7:13:30        884          1          0          0    0:02:52               0
+ 524 finished     T2_UK_SGrid_RALPP       0:05:50        937         81          0          0    0:03:23               0
+ 525 finished     T3_UK_ScotGrid_GLA      6:04:50        881          1          0          0    0:02:39               0
+ 526 finished     T1_FR_CCIN2P3           0:07:00        811         67          2          0    2:58:20               0
+ 527 finished     T2_UK_SGrid_RALPP       0:06:35        974         75          0          0    0:03:21               0
+ 528 finished     T2_UK_SGrid_RALPP       0:04:53       1012         78          0          0    0:03:23               0
+ 529 finished     T3_UK_ScotGrid_GLA      9:11:32        870          1          0          0    0:02:08               0
+ 530 finished     T2_UK_SGrid_RALPP       0:05:28       1025         78          0          0    0:01:25               0
+ 531 finished     T2_UK_SGrid_RALPP       0:05:41       1053         79          0          0    0:03:09               0
+ 532 finished     T2_UK_SGrid_RALPP       0:06:33        993         81          0          0    0:03:19               0
+ 533 finished     T1_FR_CCIN2P3           0:05:30        787         86          0          0    0:01:49               0
+ 534 finished     T3_UK_ScotGrid_GLA      7:10:59        884          1          0          0    0:02:51               0
+ 535 finished     T2_UK_SGrid_RALPP       0:06:29       1031         82          0          0    0:03:22               0
+ 536 finished     T1_US_FNAL              0:04:49       1047         80          0          0    0:01:42               0
+ 537 finished     T3_UK_ScotGrid_GLA     13:31:28        898          0          0          0    0:02:50               0
+ 538 finished     T2_UK_SGrid_RALPP       0:06:20       1037         78          0          0    0:03:20               0
+ 539 finished     T2_UK_SGrid_RALPP       0:05:34       1006         80          0          0    0:02:36               0
+ 540 finished     T2_UK_SGrid_RALPP       0:06:33        999         77          0          0    0:03:20               0
+ 541 finished     T3_UK_ScotGrid_GLA      5:21:43        878          1          0          0    0:02:38               0
+ 542 finished     T1_US_FNAL              0:02:51        953         78          0          0    0:01:46               0
+ 543 finished     T3_UK_ScotGrid_GLA     16:22:19        778          0          0          0    0:02:47               0
+ 544 finished     T3_UK_ScotGrid_GLA      6:31:10        741          1          0          0    0:02:51               0
+ 545 finished     T1_FR_CCIN2P3           0:05:00        815         84          0          0    0:01:46               0
+ 546 finished     T3_UK_ScotGrid_GLA      6:55:50        887          1          0          0    0:02:51               0
+ 547 finished     T1_FR_CCIN2P3           0:04:58        756         74          0          0    0:01:47               0
+ 548 finished     T1_US_FNAL              0:05:19       1000         83          0          0    0:01:47               0
+ 549 finished     T1_US_FNAL              0:06:49       1004         81          0          0    0:01:43               0
+ 550 finished     T1_US_FNAL              0:05:08        105         85          0          0    0:01:45               0
+ 551 finished     T1_FR_CCIN2P3           0:04:31        766         83          0          0    0:01:37               0
+ 552 finished     T1_US_FNAL              0:05:51       1017         85          0          0    0:01:35               0
+ 553 finished     T1_US_FNAL              0:04:23        114         83          0          0    0:01:44               0
+ 554 finished     T1_US_FNAL              0:04:27         91         83          0          0    0:01:41               0
+ 555 finished     T1_US_FNAL              0:04:45         43         59          0          0    0:01:42               0
+ 556 finished     T1_US_FNAL              0:05:45       1001         63          0          0    0:01:32               0
+ 557 finished     T1_US_FNAL              0:07:01       1042         88          0          0    0:01:25               0
+ 558 finished     T1_FR_CCIN2P3           0:05:10        713         87          0          0    0:01:36               0
+ 559 finished     T1_US_FNAL              0:08:27       1017         67          0          0    0:01:14               0
+ 560 finished     T1_FR_CCIN2P3           0:04:04        774         77          0          0    0:01:43               0
+ 561 finished     T1_US_FNAL              0:08:29       1029         87          0          0    0:01:25               0
+ 562 finished     T1_US_FNAL              0:09:22        983         71          0          0    0:01:30               0
+ 563 finished     T1_US_FNAL              0:04:42        956         71          0          0    0:01:14               0
+ 564 finished     T1_US_FNAL              0:07:34        946         72          0          0    0:01:14               0
+ 565 finished     T1_FR_CCIN2P3           0:03:15        751         82          0          0    0:01:38               0
+ 566 finished     T1_FR_CCIN2P3           0:05:45        782         85          0          0    0:01:39               0
+ 567 finished     T1_US_FNAL              0:09:01        956         81          0          0    0:01:25               0
+ 568 finished     T1_FR_CCIN2P3           0:04:18        771         74          0          0    0:01:37               0
+ 569 finished     T1_US_FNAL              0:01:25        111         12          0          0    0:02:30               0
+ 570 finished     T1_FR_CCIN2P3           0:01:30        811         51          0          0    0:01:37               0
+ 571 finished     T1_FR_CCIN2P3           0:03:49        810         71          0          0    0:01:36               0
+ 572 finished     T1_US_FNAL              0:11:56       1063         65          0          0    0:01:10               0
+ 573 finished     T1_US_FNAL              0:09:10       1063         79          0          0    0:01:14               0
+ 574 finished     T1_FR_CCIN2P3           0:03:03        798         77          0          0    0:01:38               0
+ 575 finished     T1_US_FNAL              0:03:22         45         61          0          0    0:01:24               0
+ 576 finished     T1_US_FNAL              0:03:31       1042         73          0          0    0:01:10               0
+ 577 finished     T1_US_FNAL              0:09:26       1059         79          0          0    0:01:05               0
+ 578 finished     T1_FR_CCIN2P3           0:04:47         36         68          0          0    0:01:36               0
+ 579 finished     T1_US_FNAL              0:04:08       1050         74          0          0    0:01:29               0
+ 580 finished     T1_FR_CCIN2P3           0:05:23        809         79          0          0    0:01:38               0
+ 581 finished     T1_US_FNAL              0:09:00       1048         79          0          0    0:01:25               0
+ 582 finished     T1_US_FNAL              0:16:36       1067         70          0          0    0:00:51               0
+ 583 finished     T1_FR_CCIN2P3           0:04:49        813         84          0          0    0:01:36               0
+ 584 finished     T1_US_FNAL              0:04:10       1048         76          0          0    0:01:13               0
+ 585 finished     T1_US_FNAL              0:04:26        966         65          0          0    0:01:27               0
+ 586 finished     T1_US_FNAL              0:07:43       1034         59          0          0    0:01:25               0
+ 587 finished     T1_FR_CCIN2P3           0:04:19        800         69          0          0    0:01:37               0
+ 588 finished     T1_US_FNAL              0:09:36       1052         70          0          0    0:01:34               0
+ 589 finished     T1_US_FNAL              0:07:10       1066         73          0          0    0:01:14               0
+ 590 finished     T1_US_FNAL              0:06:18       1061         81          0          0    0:01:33               0
+ 591 finished     T1_US_FNAL              0:03:38        934         71          0          0    0:01:26               0
+ 592 finished     T1_US_FNAL              0:10:10       1052         86          0          0    0:01:25               0
+ 593 finished     T1_FR_CCIN2P3           0:05:05        716         74          0          0    0:01:39               0
+ 594 finished     T1_US_FNAL              0:02:40       1055         78          0          0    0:01:13               0
+ 595 finished     T1_FR_CCIN2P3           0:05:32        815         84          0          0    0:01:36               0
+ 596 finished     T1_US_FNAL              0:06:08       1060         85          0          0    0:01:28               0
+ 597 finished     T1_US_FNAL              0:05:56       1056         86          0          0    0:01:15               0
+ 598 finished     T1_FR_CCIN2P3           0:04:45        705         70          0          0    0:01:37               0
+ 599 finished     T1_US_FNAL              0:06:31       1064         80          0          0    0:01:13               0
+ 600 finished     T1_US_FNAL              0:05:45       1052         78          0          0    0:01:27               0
+ 601 finished     T1_US_FNAL              0:06:09       1052         83          0          0    0:01:16               0
+ 602 finished     T1_FR_CCIN2P3           0:05:44        819         83          0          0    0:01:25               0
+ 603 finished     T1_FR_CCIN2P3           0:04:39        804         83          0          0    0:01:37               0
+ 604 finished     T1_US_FNAL              0:09:34       1065         78          0          0    0:01:25               0
+ 605 finished     T1_US_FNAL              0:03:12       1036         68          0          0    0:01:14               0
+ 606 finished     T1_US_FNAL              0:08:25       1066         80          0          0    0:01:14               0
+ 607 finished     T1_US_FNAL              0:07:08       1070         68          0          0    0:01:28               0
+ 608 finished     T1_US_FNAL              0:08:47       1053         62          0          0    0:01:28               0
+ 609 finished     T1_US_FNAL              0:09:30       1073         85          0          0    0:01:14               0
+ 610 finished     T1_US_FNAL              0:09:16       1059         67          0          0    0:01:14               0
+ 611 finished     T1_US_FNAL              0:04:03         54         75          0          0    0:01:28               0
+ 612 finished     T1_US_FNAL              0:06:26       1041         72          0          0    0:01:13               0
+ 613 finished     T1_US_FNAL              0:03:26       1049         63          0          0    0:01:13               0
+ 614 finished     T1_US_FNAL              0:07:03       1020         78          0          0    0:01:15               0
+ 615 finished     T1_US_FNAL              0:03:43        111         75          0          0    0:01:15               0
+ 616 finished     T1_US_FNAL              0:02:54       1057         69          0          0    0:01:14               0
+ 617 finished     T1_US_FNAL              0:04:06       1044         78          0          0    0:01:13               0
+ 618 finished     T1_US_FNAL              0:13:03       1056         73          0          0    0:01:04               0
+ 619 finished     T1_US_FNAL              0:03:33       1022         80          0          0    0:01:05               0
+ 620 finished     T1_US_FNAL              0:05:22       1047         79          0          0    0:01:15               0
+ 621 finished     T1_US_FNAL              0:04:49       1048         81          0          0    0:01:06               0
+ 622 finished     T1_US_FNAL              0:03:14        969         79          0          0    0:01:11               0
+ 623 finished     T1_US_FNAL              0:03:13        997         72          0          0    0:01:14               0
+ 624 finished     T1_US_FNAL              0:07:58       1054         85          0          0    0:01:13               0
+ 625 finished     T1_US_FNAL              0:10:24       1067         78          0          0    0:01:06               0
+ 626 finished     T1_US_FNAL              0:04:58        951         69          0          0    0:01:04               0
+ 627 finished     T1_US_FNAL              0:08:18       1062         81          0          0    0:01:13               0
+ 628 finished     T1_US_FNAL              0:06:55       1044         76          0          0    0:01:05               0
+ 629 finished     T1_US_FNAL              0:04:26       1040         70          0          0    0:01:13               0
+ 630 finished     T1_US_FNAL              0:05:40       1062         85          0          0    0:01:12               0
+ 631 finished     T1_US_FNAL              0:04:44       1067         75          0          0    0:01:07               0
+ 632 finished     T1_US_FNAL              0:04:55        946         84          0          0    0:01:06               0
+ 633 finished     T1_US_FNAL              0:03:54       1027         60          0          0    0:01:14               0
+ 634 finished     T1_US_FNAL              0:03:41       1034         60          0          0    0:01:12               0
+ 635 finished     T1_US_FNAL              0:05:54       1056         78          0          0    0:01:04               0
+ 636 finished     T1_US_FNAL              0:04:46       1041         72          0          0    0:01:06               0
+ 637 finished     T1_US_FNAL              0:04:00        940         69          0          0    0:01:14               0
+ 638 finished     T1_US_FNAL              0:04:26        102         66          0          0    0:01:08               0
+ 639 finished     T1_US_FNAL              0:05:19       1057         83          0          0    0:01:12               0
+ 640 finished     T1_US_FNAL              0:04:32       1030         75          0          0    0:01:14               0
+ 641 finished     T1_US_FNAL              0:05:27       1056         74          0          0    0:01:13               0
+ 642 finished     T1_US_FNAL              0:05:39       1031         74          0          0    0:01:10               0
+ 643 finished     T1_US_FNAL              0:03:29       1028         63          0          0    0:01:14               0
+ 644 finished     T1_US_FNAL              0:04:36       1045         69          0          0    0:01:11               0
+ 645 finished     T1_US_FNAL              0:06:07       1056         78          0          0    0:01:13               0
+ 646 finished     T1_US_FNAL              0:03:26        949         83          0          0    0:01:14               0
+ 647 finished     T1_US_FNAL              0:04:33       1027         73          0          0    0:01:14               0
+ 648 finished     T1_US_FNAL              0:09:15        938         73          0          0    0:01:11               0
+ 649 finished     T1_US_FNAL              0:04:36        102         79          0          0    0:01:14               0
+ 650 finished     T1_US_FNAL              0:10:02       1007         74          0          0    0:01:02               0
+ 651 finished     T1_US_FNAL              0:02:21       1046         75          0          0    0:01:10               0
+ 652 finished     T1_US_FNAL              0:03:57       1042         81          0          0    0:01:10               0
+ 653 finished     T1_US_FNAL              0:10:00        984         66          0          0    0:01:14               0
+ 654 finished     T1_US_FNAL              0:04:51       1043         78          0          0    0:01:11               0
+ 655 finished     T1_US_FNAL              0:03:47        848         83          0          0    0:01:06               0
+ 656 finished     T1_US_FNAL              0:05:36       1026         72          0          0    0:01:06               0
+ 657 finished     T1_US_FNAL              0:03:08        965         78          0          0    0:01:09               0
+ 658 finished     T1_US_FNAL              0:04:27       1028         72          0          0    0:01:13               0
+ 659 finished     T1_US_FNAL              0:03:40        926         67          0          0    0:01:01               0
+ 660 finished     T2_UK_SGrid_RALPP       0:04:15       1028         75          0          0    0:01:09               0
+ 661 finished     T1_US_FNAL              0:05:55       1004         73          0          0    0:01:08               0
+ 662 finished     T1_US_FNAL              0:05:30       1050         78          0          0    0:01:12               0
+ 663 finished     T1_US_FNAL              0:06:06       1060         85          0          0    0:01:06               0
+ 664 finished     T1_US_FNAL              0:05:40       1052         78          0          0    0:01:10               0
+ 665 finished     T1_US_FNAL              0:05:06        791         73          0          0    0:01:05               0
+ 666 finished     T1_US_FNAL              0:05:03       1055         80          0          0    0:01:03               0
+ 667 finished     T1_US_FNAL              0:07:33       1021         76          0          0    0:01:04               0
+ 668 finished     T1_US_FNAL              0:03:14       1038         67          0          0    0:01:04               0
+ 669 finished     T1_US_FNAL              0:10:13       1029         77          0          0    0:01:09               0
+ 670 finished     T1_US_FNAL              0:03:14        953         79          0          0    0:01:13               0
+ 671 finished     T1_US_FNAL              0:06:52       1042         82          0          0    0:01:10               0
+ 672 finished     T1_US_FNAL              0:05:31       1005         82          0          0    0:01:03               0
+ 673 finished     T1_US_FNAL              0:06:07       1053         81          0          0    0:01:13               0
+ 674 finished     T1_US_FNAL              0:09:46       1075         80          0          0    0:01:04               0
+ 675 finished     T1_US_FNAL              0:06:35       1034         65          0          0    0:01:03               0
+ 676 finished     T1_US_FNAL              0:05:17       1045         77          0          0    0:01:06               0
+ 677 finished     T1_US_FNAL              0:05:48       1013         74          0          0    0:01:17               0
+ 678 finished     T1_US_FNAL              0:04:46       1046         80          0          0    0:01:14               0
+ 679 finished     T1_US_FNAL              0:03:10        108         82          0          0    0:01:14               0
+ 680 finished     T1_US_FNAL              0:06:15        977         83          0          0    0:01:08               0
+ 681 finished     T2_UK_SGrid_RALPP       0:06:16       1011         81          0          0    0:01:37               0
+ 682 finished     T1_US_FNAL              0:07:10       1042         77          0          0    0:01:05               0
+ 683 finished     T1_US_FNAL              0:06:17       1036         67          0          0    0:01:02               0
+ 684 finished     T1_US_FNAL              0:03:08        994         79          0          0    0:01:03               0
+ 685 finished     T1_US_FNAL              0:05:05       1046         79          0          0    0:01:07               0
+ 686 finished     T1_US_FNAL              0:04:31         63         77          0          0    0:01:04               0
+ 687 finished     T1_FR_CCIN2P3           0:03:20        803         84          0          0    0:01:38               0
+ 688 finished     T1_US_FNAL              0:06:52       1032         78          0          0    0:01:10               0
+ 689 finished     T1_US_FNAL              0:02:29       1044         68          0          0    0:01:04               0
+ 690 finished     T1_FR_CCIN2P3           0:06:12        810         74          0          0    0:01:35               0
+ 691 finished     T1_US_FNAL              0:03:30       1034         68          0          0    0:01:03               0
+ 692 finished     T1_FR_CCIN2P3           0:04:26        811         81          0          0    0:01:37               0
+ 693 finished     T1_US_FNAL              0:08:14       1061         68          0          0    0:01:03               0
+ 694 finished     T1_US_FNAL              0:07:28       1060         79          0          0    0:01:04               0
+ 695 finished     T1_US_FNAL              0:04:31       1024         80          0          0    0:01:04               0
+ 696 finished     T1_US_FNAL              0:11:12        986         74          0          0    0:01:04               0
+ 697 finished     T1_FR_CCIN2P3           0:03:41        715         84          0          0    0:01:08               0
+ 698 finished     T1_US_FNAL              0:04:43       1035         79          0          0    0:01:08               0
+ 699 finished     T1_US_FNAL              0:04:46         47         77          0          0    0:01:07               0
+ 700 finished     T1_US_FNAL              0:04:08         44         81          0          0    0:01:05               0
+ 701 finished     T1_US_FNAL              0:05:33       1049         76          0          0    0:01:02               0
+ 702 finished     T1_US_FNAL              0:03:59         53         68          0          0    0:01:03               0
+ 703 finished     T1_US_FNAL              0:08:03       1050         70          0          0    0:01:05               0
+ 704 finished     T1_US_FNAL              0:03:49        955         84          0          0    0:01:06               0
+ 705 finished     T1_US_FNAL              0:05:42       1061         79          0          0    0:01:01               0
+ 706 finished     T1_US_FNAL              0:03:42       1037         76          0          0    0:01:04               0
+ 707 finished     T2_UK_London_IC         0:04:53         66          4          0          0    0:00:09               0
+ 708 finished     T2_UK_London_IC         0:08:49       1036         42          0          0    0:00:09               0
+ 709 finished     T2_UK_London_IC         0:04:17       1006         63          0          0    0:00:08               0
+ 710 finished     T2_UK_London_IC         0:06:12       1015         66          0          0    0:00:08               0
+ 711 finished     T2_UK_London_IC         0:09:04       1008         49          0          0    0:00:08               0
+ 712 finished     T2_UK_London_IC         0:10:17       1011         37          0          0    0:00:10               0
+ 713 finished     T2_UK_London_IC         0:09:03        999         34          0          0    0:00:08               0
+ 714 finished     T2_UK_London_IC         0:07:15        945         50          0          0    0:00:09               0
+ 715 finished     T2_UK_London_Brunel     0:04:39         65         47          0          0    0:00:08               0
+ 716 finished     T2_UK_London_Brunel     0:02:24       1008         52          0          0    0:00:08               0
+ 717 finished     T2_UK_London_Brunel     0:06:00       1011         57          0          0    0:00:09               0
+ 718 finished     T2_UK_London_Brunel     0:04:46        902         63          0          0    0:00:09               0
+ 719 finished     T2_UK_London_Brunel     0:04:18        927         61          0          0    0:00:09               0
+ 720 finished     T2_UK_London_Brunel     0:04:24       1013         58          0          0    0:00:08               0
+ 721 finished     T2_UK_London_Brunel     0:05:26          0        120          0          1    0:06:31               0
+ 722 finished     T2_UK_London_Brunel     0:03:23       1029         63          0          0    0:00:08               0
+ 723 finished     T2_UK_London_Brunel     0:03:39       1014         59          0          0    0:00:09               0
+ 724 finished     T2_UK_London_Brunel     0:07:32       1006         67          0          0    0:00:09               0
+ 725 finished     T2_UK_London_Brunel     0:03:35       1046         60          0          0    0:00:08               0
+ 726 finished     T2_UK_London_Brunel     0:05:13       1025         65          0          0    0:00:08               0
+ 727 finished     T2_UK_London_Brunel     0:05:09       1036         62          0          0    0:00:08               0
+ 728 finished     T2_UK_London_Brunel     0:05:13        840         64          0          0    0:00:08               0
+ 729 finished     T2_UK_London_Brunel     0:06:55       1039         72          0          0    0:00:10               0
+ 730 finished     T2_UK_London_Brunel     0:06:39       1036         57          0          0    0:00:08               0
+ 731 finished     T2_UK_London_Brunel     0:05:30       1036         66          0          0    0:00:08               0
+ 732 finished     T2_UK_London_Brunel     0:06:25       1039         68          0          0    0:00:08               0
+ 733 finished     T2_UK_London_Brunel     0:04:48       1047         59          0          0    0:00:08               0
+ 734 finished     T2_UK_London_Brunel     0:03:37       1024         57          0          0    0:00:08               0
+ 735 finished     T2_UK_London_Brunel     0:04:45       1047         59          0          0    0:00:08               0
+ 736 finished     T2_UK_London_Brunel     0:03:46         90         58          0          0    0:00:08               0
+ 737 finished     T2_UK_London_Brunel     0:06:19       1005         56          0          0    0:00:09               0
+ 738 finished     T2_UK_London_Brunel     0:06:56       1029         66          0          0    0:00:09               0
+ 739 finished     T2_UK_London_Brunel     0:06:21       1022         66          0          0    0:00:09               0
+ 740 finished     T2_UK_London_Brunel     0:04:34       1051         62          0          0    0:00:09               0
+ 741 finished     T2_UK_London_Brunel     0:04:54        935         66          0          0    0:00:08               0
+ 742 finished     T2_UK_London_Brunel     0:05:33       1021         65          0          0    0:00:09               0
+ 743 finished     T2_UK_London_Brunel     0:06:00       1035         66          0          0    0:00:08               0
+ 744 finished     T2_UK_London_Brunel     0:03:45        104         61          0          0    0:00:08               0
+ 745 finished     T2_UK_London_Brunel     0:07:11        976         63          0          0    0:00:08               0
+ 746 finished     T2_UK_London_Brunel     0:08:58        993         74          0          0    0:00:08               0
+ 747 finished     T2_UK_London_Brunel     0:06:15       1018         69          0          0    0:00:08               0
+ 748 finished     T2_UK_London_Brunel     0:05:46       1001         64          0          0    0:00:09               0
+ 749 finished     T2_UK_London_Brunel     0:04:59       1030         63          0          0    0:00:08               0
+ 750 finished     T2_UK_London_Brunel     0:05:55       1039         68          0          0    0:00:08               0
+ 751 finished     T1_US_FNAL              0:05:19       1060         75          0          0    0:00:10               0
+ 752 finished     T2_UK_London_Brunel     0:04:42       1037         62          0          0    0:00:08               0
+ 753 finished     T2_UK_London_Brunel     0:05:50       1031         67          0          0    0:00:08               0
+ 754 finished     T2_UK_London_Brunel     0:05:06       1050         70          0          0    0:00:08               0
+ 755 finished     T2_UK_London_Brunel     0:05:00         97         63          0          0    0:00:08               0
+ 756 finished     T2_UK_London_Brunel     0:08:19       1028         69          0          0    0:00:08               0
+ 757 finished     T2_UK_London_Brunel     0:05:49          0        121          0          1    0:06:00               0
+ 758 finished     T2_UK_London_Brunel     0:04:01         72         63          0          0    0:00:09               0
+ 759 finished     T2_UK_London_Brunel     0:05:21       1036         64          0          0    0:00:08               0
+ 760 finished     T2_UK_London_Brunel     0:03:57       1012         64          0          0    0:00:08               0
+ 761 finished     T2_UK_London_Brunel     0:05:12       1009         65          0          0    0:00:09               0
+ 762 finished     T2_UK_London_Brunel     0:04:49       1025         67          0          0    0:00:08               0
+ 763 finished     T2_UK_London_Brunel     0:06:04       1220        120          0          1    0:15:48               0
+ 764 finished     T2_UK_London_Brunel     0:03:46       1049         58          0          0    0:00:08               0
+ 765 finished     T2_UK_London_Brunel     0:07:14       1023         64          0          0    0:00:08               0
+ 766 finished     T2_UK_London_Brunel     0:06:12       1011         55          0          0    0:00:08               0
+ 767 finished     T2_UK_London_Brunel     0:05:10       1047         61          0          0    0:00:08               0
+ 768 finished     T2_UK_London_Brunel     0:02:59       1046         53          0          0    0:00:08               0
+ 769 finished     T2_UK_London_Brunel     0:04:53       1050         61          0          0    0:00:09               0
+ 770 finished     T2_UK_London_Brunel     0:06:24       1032         59          0          0    0:00:08               0
+ 771 finished     T2_UK_London_Brunel     0:08:35       1019         38          0          0    0:00:08               0
+ 772 finished     T2_UK_London_Brunel     0:03:53       1036         62          0          0    0:00:09               0
+ 773 finished     T2_UK_London_Brunel     0:03:25       1047         60          0          0    0:00:08               0
+ 774 finished     T2_UK_London_Brunel     0:04:20       1052         62          0          0    0:00:08               0
+ 775 finished     T2_UK_London_Brunel     0:03:40       1051         61          0          0    0:00:09               0
+ 776 finished     T2_UK_London_Brunel     0:05:10        103         61          0          0    0:00:08               0
+ 777 finished     T2_UK_London_Brunel     0:06:11       1018         69          0          0    0:00:08               0
+ 778 finished     T2_UK_London_Brunel     0:06:31       1031         65          0          0    0:00:08               0
+ 779 finished     T2_UK_London_Brunel     0:05:43       1011         56          0          0    0:00:08               0
+ 780 finished     T1_US_FNAL              0:04:44       1220        157          0          0    0:00:00               0
+ 781 finished     T2_UK_London_Brunel     0:05:50       1029         67          0          0    0:00:09               0
+ 782 finished     T2_UK_London_Brunel     0:04:15       1008         67          0          0    0:00:08               0
+ 783 finished     T1_US_FNAL              0:03:10       1060         75          0          0    0:00:09               0
+ 784 finished     T2_UK_London_Brunel     0:03:46        100         60          0          0    0:00:09               0
+ 785 finished     T2_UK_London_Brunel     0:04:53         74         61          0          0    0:00:08               0
+ 786 finished     T2_UK_London_Brunel     0:07:38       1046         66          0          0    0:00:08               0
+ 787 finished     T2_UK_London_Brunel     0:04:53        954         69          0          0    0:04:19               0
+ 788 finished     T2_UK_London_Brunel     0:05:27        993         67          0          0    0:00:08               0
+ 789 finished     T2_UK_London_Brunel     0:08:54       1017         39          0          0    0:00:09               0
+ 790 finished     T2_UK_London_Brunel     0:05:40       1031         66          0          0    0:00:09               0
+ 791 finished     T2_UK_London_Brunel     0:04:59       1056         63          0          0    0:00:08               0
+ 792 finished     T2_UK_London_Brunel     0:07:26       1037         67          0          0    0:00:08               0
+ 793 finished     T2_UK_London_Brunel     0:05:19       1015         62          0          0    0:00:09               0
+ 794 finished     T2_UK_London_Brunel     0:04:12       1000         65          0          0    0:00:09               0
+ 795 finished     T2_UK_London_Brunel     0:09:32       1000         75          0          0    0:00:09               0
+ 796 finished     T2_UK_London_Brunel     0:04:58       1047         62          0          0    0:00:08               0
+ 797 finished     T2_UK_London_Brunel     0:03:58       1037         60          0          0    0:00:09               0
+ 798 finished     T2_UK_London_Brunel     0:06:16       1023         57          0          0    0:00:08               0
+ 799 finished     T2_UK_London_Brunel     0:05:45       1025         67          0          0    0:00:08               0
+ 800 finished     T2_UK_London_Brunel     0:04:32       1012         62          0          0    0:00:08               0
+ 801 finished     T2_UK_London_Brunel     0:04:36          0        122          0          1    0:05:52               0
+ 802 finished     T2_UK_London_Brunel     0:06:01       1032         68          0          0    0:00:09               0
+ 803 finished     T2_UK_London_Brunel     0:04:26       1038         61          0          0    0:00:08               0
+ 804 finished     T2_UK_London_Brunel     0:05:34       1025         67          0          0    0:00:09               0
+ 805 finished     T2_UK_London_Brunel     0:05:55       1047         67          0          0    0:04:18               0
+ 806 finished     T2_UK_London_Brunel     0:05:40       1029         62          0          0    0:00:08               0
+ 807 finished     T2_UK_London_Brunel     0:05:42       1220        120          0          1    0:05:44               0
+ 808 finished     T2_UK_London_Brunel     0:06:11       1019         67          0          0    0:00:09               0
+ 809 finished     T2_UK_London_Brunel     0:07:40        985         73          0          0    0:00:08               0
+ 810 finished     T2_UK_London_Brunel     0:04:35        934         64          0          0    0:00:09               0
+ 811 finished     T2_UK_London_Brunel     0:08:03       1039         67          0          0    0:00:09               0
+ 812 finished     T2_UK_London_Brunel     0:05:44       1011         69          0          0    0:00:08               0
+ 813 finished     T2_UK_London_Brunel     0:05:10       1023         63          0          0    0:00:09               0
+ 814 finished     T2_UK_London_Brunel     0:03:07       1020         52          0          0    0:00:09               0
+ 815 finished     T2_UK_London_Brunel     0:03:54       1023         64          0          0    0:00:08               0
+ 816 finished     T2_UK_London_Brunel     0:05:58       1014         69          0          0    0:00:08               0
+ 817 finished     T2_UK_London_Brunel     0:04:34       1040         64          0          0    0:00:09               0
+ 818 finished     T2_UK_London_Brunel     0:03:45       1026         61          0          0    0:00:09               0
+ 819 finished     T2_UK_London_Brunel     0:06:18       1021         66          0          0    0:00:09               0
+ 820 finished     T2_UK_London_Brunel     0:05:09        920         64          0          0    0:00:09               0
+ 821 finished     T2_UK_London_Brunel     0:04:06       1050         63          0          0    0:00:08               0
+ 822 finished     T2_UK_London_Brunel     0:06:02        969         70          0          0    0:00:08               0
+ 823 finished     T2_UK_London_Brunel     0:07:19       1019         63          0          0    0:00:09               0
+ 824 finished     T2_UK_London_Brunel     0:04:03       1021         65          0          0    0:00:09               0
+ 825 finished     T2_UK_London_Brunel     0:04:18        949         59          0          0    0:00:08               0
+ 826 finished     T2_UK_London_Brunel     0:05:25       1015         62          0          0    0:00:09               0
+ 827 finished     T2_UK_London_Brunel     0:04:17        914         67          0          0    0:00:09               0
+ 828 finished     T2_UK_London_Brunel     0:05:18       1028         62          0          0    0:00:08               0
+ 829 finished     T2_UK_London_Brunel     0:05:42       1027         62          0          0    0:00:08               0
+ 830 finished     T2_UK_London_Brunel     0:05:50        990         67          0          0    0:00:09               0
+ 831 finished     T2_UK_London_Brunel     0:05:25       1033         64          0          0    0:00:08               0
+ 832 finished     T2_UK_London_Brunel     0:07:22       1033         64          0          0    0:00:09               0
+ 833 finished     T2_UK_London_Brunel     0:09:13        997         74          0          0    0:00:08               0
+ 834 finished     T2_UK_London_Brunel     0:05:17       1038         63          0          0    0:00:09               0
+ 835 finished     T2_UK_London_Brunel     0:05:25       1036         66          0          0    0:00:09               0
+ 836 finished     T2_UK_London_Brunel     0:07:25       1038         63          0          0    0:00:09               0
+ 837 finished     T2_UK_London_Brunel     0:05:25       1035         66          0          0    0:00:09               0
+ 838 finished     T2_UK_London_Brunel     0:05:54       1019         66          0          0    0:00:09               0
+ 839 finished     T2_UK_London_Brunel     0:06:09       1021         67          0          0    0:00:09               0
+ 840 finished     T2_UK_London_Brunel     0:07:25       1022         64          0          0    0:00:08               0
+ 841 finished     T2_UK_London_Brunel     0:04:05        976        113          0          1    0:04:42               0
+ 842 finished     T2_UK_London_Brunel     0:04:31       1026         62          0          0    0:00:09               0
+ 843 finished     T2_UK_London_Brunel     0:05:03       1050         64          0          0    0:00:09               0
+ 844 finished     T2_UK_London_Brunel     0:06:36       1064         68          0          0    0:00:09               0
+ 845 finished     T2_UK_London_Brunel     0:03:49        100         63          0          0    0:00:08               0
+ 846 finished     T2_UK_London_Brunel     0:05:21       1037         64          0          0    0:00:08               0
+ 847 finished     T2_UK_London_Brunel     0:05:43       1034         69          0          0    0:00:08               0
+ 848 finished     T2_UK_London_Brunel     0:04:52       1008         64          0          0    0:00:08               0
+ 849 finished     T2_UK_London_Brunel     0:05:55       1021         67          0          0    0:00:09               0
+ 850 finished     T2_UK_London_Brunel     0:06:03       1009         67          0          0    0:00:08               0
+ 851 finished     T2_UK_London_Brunel     0:06:03        962         68          0          0    0:00:09               0
+ 852 finished     T2_UK_London_Brunel     0:07:39       1020         64          0          0    0:00:08               0
+ 853 finished     T2_UK_London_Brunel     0:05:54       1008         64          0          0    0:00:09               0
+ 854 finished     T2_UK_London_Brunel     0:04:08         64         63          0          0    0:00:09               0
+ 855 finished     T2_UK_London_Brunel     0:05:57        955         67          0          0    0:00:09               0
+ 856 finished     T2_UK_London_Brunel     0:04:22        101         58          0          0    0:00:09               0
+ 857 finished     T2_UK_London_Brunel     0:03:17       1034         59          0          0    0:00:09               0
+ 858 finished     T2_UK_London_Brunel     0:04:14       1027         64          0          0    0:00:09               0
+ 859 finished     T2_UK_London_Brunel     0:05:33       1031         66          0          0    0:00:08               0
+ 860 finished     T2_UK_London_Brunel     0:06:16       1030         67          0          0    0:00:09               0
+ 861 finished     T2_UK_London_Brunel     0:07:20       1032         64          0          0    0:00:09               0
+ 862 finished     T2_UK_London_Brunel     0:04:05       1044         60          0          0    0:00:09               0
+ 863 finished     T2_UK_London_Brunel     0:04:45        985         67          0          0    0:00:08               0
+ 864 finished     T2_UK_London_Brunel     0:06:00        916         69          0          0    0:00:08               0
+ 865 finished     T2_UK_London_Brunel     0:03:50       1037         63          0          0    0:00:09               0
+ 866 finished     T2_UK_London_Brunel     0:05:42       1039         70          0          0    0:02:44               0
+ 867 finished     T2_UK_London_Brunel     0:04:52        102         63          0          0    0:00:09               0
+ 868 finished     T2_UK_London_Brunel     0:04:56       1038         66          0          0    0:02:52               0
+ 869 finished     T2_UK_London_Brunel     0:05:58       1021         64          0          0    0:03:16               0
+ 870 finished     T2_UK_London_Brunel     0:06:03       1017         67          0          0    0:00:09               0
+ 871 finished     T2_UK_London_Brunel     0:03:59       1043         61          0          0    0:03:11               0
+ 872 finished     T2_UK_London_Brunel     0:03:42       1014         63          0          0    0:00:09               0
+ 873 finished     T2_UK_London_Brunel     0:04:49       1047         63          0          0    0:02:50               0
+ 874 finished     T2_UK_London_Brunel     0:05:31       1049         71          0          0    0:02:48               0
+ 875 finished     T1_US_FNAL              0:11:05       1220         97          0          1    0:18:26               0
+ 876 finished     T2_UK_London_Brunel     0:06:12        923         60          0          0    0:00:09               0
+ 877 finished     T2_UK_London_Brunel     0:04:36        940         67          0          0    0:02:54               0
+ 878 finished     T2_UK_London_Brunel     0:07:19       1021         63          0          0    0:00:09               0
+ 879 finished     T2_UK_London_Brunel     0:06:02       1016         69          0          0    0:00:09               0
+ 880 finished     T2_UK_London_Brunel     0:04:30       1037         64          0          0    0:02:41               0
+ 881 finished     T2_UK_London_Brunel     0:05:55       1047         70          0          0    0:03:09               0
+ 882 finished     T2_UK_London_Brunel     0:04:37        103         62          0          0    0:03:03               0
+ 883 finished     T2_UK_London_Brunel     0:05:11       1032         68          0          0    0:02:41               0
+ 884 finished     T2_UK_London_Brunel     0:04:26       1220        100          0          1    0:05:51               0
+ 885 finished     T2_UK_London_Brunel     0:03:13        967         64          0          0    0:02:41               0
+ 886 finished     T2_UK_London_Brunel     0:05:41       1042         71          0          0    0:02:31               0
+ 887 finished     T2_UK_London_Brunel     0:05:42          0        125          0          1    0:08:29               0
+ 888 finished     T2_UK_London_Brunel     0:05:00       1040         65          0          0    0:02:28               0
+ 889 finished     T2_UK_London_Brunel     0:05:22       1034         71          0          0    0:02:37               0
+ 890 finished     T2_UK_London_Brunel     0:05:26       1035         71          0          0    0:02:14               0
+ 891 finished     T2_UK_London_Brunel     0:05:00         78         65          0          0    0:02:39               0
+ 892 finished     T2_UK_London_Brunel     0:04:24        108         66          0          0    0:02:21               0
+ 893 finished     T2_UK_London_Brunel     0:05:24       1039         69          0          0    0:02:38               0
+ 894 finished     T2_UK_London_Brunel     0:05:45       1034         69          0          0    0:02:26               0
+ 895 finished     T2_UK_London_Brunel     0:05:10       1045         68          0          0    0:02:09               0
+ 896 finished     T2_UK_London_Brunel     0:04:16       1026         65          0          0    0:02:32               0
+ 897 finished     T2_UK_London_Brunel     0:05:52          0        129          0          1    0:08:28               0
+ 898 finished     T2_UK_London_Brunel     0:04:09       1038         66          0          0    0:02:22               0
+ 899 finished     T2_UK_London_Brunel     0:03:04       1022         61          0          0    0:02:02               0
+ 900 finished     T2_UK_London_Brunel     0:04:31       1220        113          0          1    0:06:50               0
+ 901 finished     T2_UK_London_Brunel     0:04:32       1049         64          0          0    0:02:03               0
+ 902 finished     T2_UK_London_Brunel     0:05:00       1034         67          0          0    0:02:14               0
+ 903 finished     T2_UK_London_Brunel     0:04:48        956         67          0          0    0:02:05               0
+ 904 finished     T2_UK_London_Brunel     0:05:28       1038         70          0          0    0:02:08               0
+ 905 finished     T1_US_FNAL              0:03:25          0        215          0          1    0:09:04               0
+ 906 finished     T2_UK_London_Brunel     0:05:43       1037         69          0          0    0:02:14               0
+ 907 finished     T2_UK_London_Brunel     0:05:47       1019         69          0          0    0:02:13               0
+ 908 finished     T2_UK_London_Brunel     0:04:36       1036         64          0          0    0:02:01               0
+ 909 finished     T2_UK_London_Brunel     0:04:22       1026         67          0          0    0:02:02               0
+ 910 finished     T2_UK_London_Brunel     0:05:44       1062         67          0          0    0:02:01               0
+ 911 finished     T2_UK_London_Brunel     0:05:07       1036         69          0          0    0:02:00               0
+ 912 finished     T2_UK_London_Brunel     0:03:07       1031         59          0          0    0:01:59               0
+ 913 finished     T2_UK_London_Brunel     0:03:09       1012         62          0          0    0:02:03               0
+ 914 finished     T1_US_FNAL              0:04:51       1220        138          0          1    0:07:39               0
+ 915 finished     T2_UK_London_Brunel     0:05:02        111         71          0          0    0:02:03               0
+ 916 finished     T2_UK_London_Brunel     0:04:42       1023         66          0          0    0:02:03               0
+ 917 finished     T2_UK_London_Brunel     0:04:24         69         64          0          0    0:01:59               0
+ 918 finished     T2_UK_London_Brunel     0:05:57       1054         70          0          0    0:01:58               0
+ 919 finished     T2_UK_London_Brunel     0:04:14       1038         66          0          0    0:01:59               0
+ 920 finished     T2_UK_London_Brunel     0:04:53       1034         68          0          0    0:01:59               0
+ 921 finished     T2_UK_London_Brunel     0:03:34       1060         66          0          0    0:01:59               0
+ 922 finished     T2_UK_London_Brunel     0:04:22       1040         62          0          0    0:01:59               0
+ 923 finished     T2_UK_London_Brunel     0:03:59         92        100          0          1    0:05:52               0
+ 924 finished     T2_UK_London_Brunel     0:04:35         67         64          0          0    0:01:59               0
+ 925 finished     T2_UK_London_Brunel     0:03:43        942         65          0          0    0:01:58               0
+ 926 finished     T2_UK_London_Brunel     0:04:36       1046         64          0          0    0:01:59               0
+ 927 finished     T2_UK_London_Brunel     0:03:43       1012         64          0          0    0:01:57               0
+ 928 finished     T2_UK_London_Brunel     0:05:13       1220        114          0          1    0:06:45               0
+ 929 finished     T2_UK_London_Brunel     0:05:40        990         65          0          0    0:02:00               0
+ 930 finished     T2_DE_RWTH              0:01:18         41          4          0          0    0:01:01               0
+ 931 finished     T1_ES_PIC               0:04:23       1003         67          0          0    0:00:09               0
+ 932 finished     T1_ES_PIC               0:05:52        929         62          0          0    0:00:08               0
+ 933 finished     T1_ES_PIC               0:05:15       1025         67          0          0    0:00:09               0
+ 934 finished     T1_ES_PIC               0:05:57        989         57          0          0    0:00:08               0
+ 935 finished     T1_ES_PIC               0:03:59       1007         63          0          0    0:03:27               0
+ 936 finished     T1_ES_PIC               0:04:15        956         76          0          0    0:00:09               0
+ 937 finished     T1_ES_PIC               0:03:02        915         77          0          0    0:00:08               0
+ 938 finished     T1_ES_PIC               0:03:59       1056         23          0          0    0:01:47               0
+ 939 finished     T1_ES_PIC               0:04:51        906         18          0          0    0:06:14               0
+ 940 finished     T2_DE_DESY              0:01:18        660          9          0          0    0:01:17               0
+ 941 finished     T1_US_FNAL              0:03:44       1021         58          0          0    0:01:10               0
+ 942 finished     T1_US_FNAL              0:07:49       1062         72          0          0    0:01:03               0
+ 943 finished     T1_US_FNAL              0:04:10        927         74          0          0    0:01:04               0
+ 944 finished     T1_US_FNAL              0:05:43       1052         69          0          0    0:01:03               0
+ 945 finished     T1_US_FNAL              0:07:58       1057         81          0          0    0:01:05               0
+ 946 finished     T1_US_FNAL              0:03:59       1025         77          0          0    0:01:03               0
+ 947 finished     T1_US_FNAL              0:03:26        938         83          0          0    0:01:13               0
+ 948 finished     T1_US_FNAL              0:02:57        102         79          0          0    0:01:01               0
+ 949 finished     T1_US_FNAL              0:04:32        914         75          0          0    0:01:02               0
+ 950 finished     T1_US_FNAL              0:03:56       1044         78          0          0    0:01:03               0
+ 951 finished     T1_US_FNAL              0:06:08       1051         72          0          0    0:01:02               0
+ 952 finished     T1_US_FNAL              0:05:47       1047         72          0          0    0:01:06               0
+ 953 finished     T1_FR_CCIN2P3           0:03:17        697         81          0          0    0:02:06               0
+ 954 finished     T1_US_FNAL              0:06:03       1038         83          0          0    0:01:02               0
+ 955 finished     T1_US_FNAL              0:03:51         42         67          0          0    0:01:04               0
+ 956 finished     T1_US_FNAL              0:04:45        983         78          0          0    0:01:02               0
+ 957 finished     T1_US_FNAL              0:03:49       1059         80          0          0    0:01:06               0
+ 958 finished     T1_US_FNAL              0:07:13       1060         74          0          0    0:01:01               0
+ 959 finished     T1_US_FNAL              0:05:57       1058         83          0          0    0:01:03               0
+ 960 finished     T1_US_FNAL              0:08:38       1072         86          0          0    0:01:03               0
+ 961 finished     T1_US_FNAL              0:05:12        913         73          0          0    0:01:02               0
+ 962 finished     T1_US_FNAL              0:05:40       1034         72          0          0    0:01:02               0
+ 963 finished     T1_US_FNAL              0:02:54       1041         76          0          0    0:01:03               0
+ 964 finished     T1_US_FNAL              0:05:00        104         68          0          0    0:01:04               0
+ 965 finished     T1_US_FNAL              0:04:05       1051         79          0          0    0:01:03               0
+ 966 finished     T1_US_FNAL              0:05:32       1039         67          0          0    0:01:03               0
+ 967 finished     T1_US_FNAL              0:04:25       1033         64          0          0    0:01:03               0
+ 968 finished     T1_US_FNAL              0:04:19       1050         75          0          0    0:01:05               0
+ 969 finished     T1_US_FNAL              0:03:41       1026         56          0          0    0:01:04               0
+ 970 finished     T1_US_FNAL              0:03:24        948         71          0          0    0:01:04               0
+ 971 finished     T1_US_FNAL              0:06:21       1048         79          0          0    0:01:01               0
+ 972 finished     T1_US_FNAL              0:05:39       1017         72          0          0    0:01:03               0
+ 973 finished     T1_US_FNAL              0:05:25       1047         73          0          0    0:01:25               0
+ 974 finished     T1_US_FNAL              0:09:32        963         76          0          0    0:01:03               0
+ 975 finished     T1_US_FNAL              0:04:41       1034         68          0          0    0:01:04               0
+ 976 finished     T1_US_FNAL              0:06:56        917         66          0          0    0:01:03               0
+ 977 finished     T1_US_FNAL              0:03:14       1048         69          0          0    0:01:04               0
+ 978 finished     T1_US_FNAL              0:02:54       1041         76          0          0    0:01:01               0
+ 979 finished     T1_US_FNAL              0:03:08         74         76          0          0    0:01:04               0
+ 980 finished     T1_US_FNAL              0:07:17       1012         63          0          0    0:01:02               0
+ 981 finished     T1_US_FNAL              0:02:59        105         72          0          0    0:01:01               0
+ 982 finished     T1_US_FNAL              0:04:54        933         84          0          0    0:01:06               0
+ 983 finished     T1_US_FNAL              0:05:17       1038         69          0          0    0:01:02               0
+ 984 finished     T1_US_FNAL              0:03:23        101         64          0          0    0:00:59               0
+ 985 finished     T1_US_FNAL              0:05:32       1021         77          0          0    0:01:05               0
+ 986 finished     T1_US_FNAL              0:05:29       1036         72          0          0    0:01:06               0
+ 987 finished     T1_US_FNAL              0:04:56        918         72          0          0    0:01:04               0
+ 988 finished     T1_US_FNAL              0:04:39       1035         67          0          0    0:01:03               0
+ 989 finished     T1_US_FNAL              0:05:17        993         69          0          0    0:01:28               0
+ 990 finished     T1_US_FNAL              0:06:45       1045         84          0          0    0:01:04               0
+ 991 finished     T1_US_FNAL              0:03:03        874         81          0          0    0:01:03               0
+ 992 finished     T1_US_FNAL              0:03:50         57         73          0          0    0:01:06               0
+ 993 finished     T1_US_FNAL              0:03:58       1038         72          0          0    0:01:05               0
+ 994 finished     T1_US_FNAL              0:05:46       1037         73          0          0    0:01:02               0
+ 995 finished     T1_US_FNAL              0:03:34        104         72          0          0    0:01:02               0
+ 996 finished     T1_US_FNAL              0:05:10         88         75          0          0    0:01:02               0
+ 997 finished     T1_US_FNAL              0:04:36       1041         73          0          0    0:01:03               0
+ 998 finished     T1_US_FNAL              0:04:04        975         70          0          0    0:01:02               0
+ 999 finished     T1_US_FNAL              0:07:40       1027         70          0          0    0:01:02               0
+1000 finished     T1_US_FNAL              0:02:32       1052         68          0          0    0:01:06               0
+1001 finished     T1_US_FNAL              0:06:32        985         67          0          0    0:01:02               0
+1002 finished     T1_US_FNAL              0:05:32       1021         67          0          0    0:01:03               0
+1003 finished     T1_US_FNAL              0:03:49         40         66          0          0    0:01:02               0
+1004 finished     T1_US_FNAL              0:08:16       1057         71          0          0    0:01:04               0
+1005 finished     T1_US_FNAL              0:04:08        987         66          0          0    0:01:03               0
+1006 finished     T1_US_FNAL              0:05:27       1038         76          0          0    0:01:04               0
+1007 finished     T1_US_FNAL              0:04:40       1028         69          0          0    0:01:04               0
+1008 finished     T1_US_FNAL              0:04:30       1036         71          0          0    0:01:02               0
+1009 finished     T1_US_FNAL              0:09:23        980         72          0          0    0:01:03               0
+1010 finished     T1_US_FNAL              0:05:17       1044         77          0          0    0:01:06               0
+1011 finished     T1_FR_CCIN2P3           0:05:19        812         85          0          0    0:01:13               0
+1012 finished     T1_US_FNAL              0:04:29       1006         78          0          0    0:01:05               0
+1013 finished     T1_US_FNAL              0:03:47        941         84          0          0    0:01:04               0
+1014 finished     T1_US_FNAL              0:06:02       1033         70          0          0    0:01:01               0
+1015 finished     T1_US_FNAL              0:03:47        108         80          0          0    0:01:13               0
+1016 finished     T1_US_FNAL              0:03:36       1038         78          0          0    0:01:14               0
+1017 finished     T1_US_FNAL              0:06:23        992         78          0          0    0:01:02               0
+1018 finished     T1_US_FNAL              0:03:48         59         74          0          0    0:01:02               0
+1019 finished     T1_US_FNAL              0:04:58       1013         78          0          0    0:01:00               0
+1020 finished     T1_US_FNAL              0:04:35       1026         63          0          0    0:01:03               0
+1021 finished     T1_US_FNAL              0:04:48       1053         80          0          0    0:01:01               0
+1022 finished     T1_US_FNAL              0:10:32       1034         76          0          0    0:01:04               0
+1023 finished     T1_US_FNAL              0:05:12       1048         71          0          0    0:01:04               0
+1024 finished     T1_US_FNAL              0:03:38         98         76          0          0    0:01:03               0
+1025 finished     T1_US_FNAL              0:05:52       1026         69          0          0    0:01:02               0
+1026 finished     T1_US_FNAL              0:04:38        945         73          0          0    0:01:03               0
+1027 finished     T1_US_FNAL              0:03:18       1030         72          0          0    0:01:12               0
+1028 finished     T1_FR_CCIN2P3           0:06:20        811         76          0          0    0:01:14               0
+1029 finished     T1_US_FNAL              0:05:29       1016         71          0          0    0:01:02               0
+1030 finished     T1_US_FNAL              0:05:31       1018         71          0          0    0:01:03               0
+1031 finished     T1_US_FNAL              0:04:49         67         79          0          0    0:00:59               0
+1032 finished     T1_US_FNAL              0:06:59       1037         76          0          0    0:01:01               0
+1033 finished     T1_US_FNAL              0:05:23       1017         64          0          0    0:01:02               0
+1034 finished     T1_US_FNAL              0:03:59       1042         69          0          0    0:02:03               0
+1035 finished     T1_US_FNAL              0:07:01       1053         77          0          0    0:00:57               0
+1036 finished     T1_US_FNAL              0:05:29       1043         79          0          0    0:00:59               0
+1037 finished     T1_US_FNAL              0:04:04        952         82          0          0    0:01:02               0
+1038 finished     T1_US_FNAL              0:04:40         68         80          0          0    0:01:04               0
+1039 finished     T1_US_FNAL              0:05:22        991         78          0          0    0:01:02               0
+1040 finished     T1_US_FNAL              0:04:31       1060         81          0          0    0:00:55               0
+1041 finished     T1_US_FNAL              0:08:11       1065         87          0          0    0:00:57               0
+1042 finished     T1_US_FNAL              0:04:55        924         83          0          0    0:00:57               0
+1043 finished     T1_US_FNAL              0:03:58        926         80          0          0    0:00:54               0
+1044 finished     T1_US_FNAL              0:08:58       1038         79          0          0    0:00:59               0
+1045 finished     T1_US_FNAL              0:03:26         96         71          0          0    0:00:58               0
+1046 finished     T1_US_FNAL              0:09:01       1043         78          0          0    0:00:58               0
+1047 finished     T1_FR_CCIN2P3           0:05:09         65         83          0          0    0:01:00               0
+1048 finished     T1_US_FNAL              0:03:47       1063         79          0          0    0:00:49               0
+1049 finished     T1_US_FNAL              0:03:40         60         81          0          0    0:00:47               0
+1050 finished     T1_US_FNAL              0:03:48        933         74          0          0    0:00:59               0
+1051 finished     T1_US_FNAL              0:03:23        846         78          0          0    0:01:00               0
+1052 finished     T1_US_FNAL              0:05:05        935         82          0          0    0:00:52               0
+1053 finished     T1_US_FNAL              0:03:53        102         79          0          0    0:00:54               0
+1054 finished     T1_FR_CCIN2P3           0:07:06        815         73          0          0    0:01:06               0
+1055 finished     T1_US_FNAL              0:04:07       1034         67          0          0    0:00:40               0
+1056 finished     T1_US_FNAL              0:03:31        836         82          0          0    0:00:49               0
+1057 finished     T1_US_FNAL              0:04:14        941         81          0          0    0:00:40               0
+1058 finished     T1_US_FNAL              0:05:22       1033         71          0          0    0:00:42               0
+1059 finished     T1_US_FNAL              0:02:51        930         67          0          0    0:00:39               0
+1060 finished     T1_US_FNAL              0:02:52         84         72          0          0    0:00:41               0
+1061 finished     T1_US_FNAL              0:07:41       1046         72          0          0    0:00:36               0
+1062 finished     T1_US_FNAL              0:03:01        941         77          0          0    0:00:28               0
+1063 finished     T1_US_FNAL              0:03:25        952         81          0          0    0:00:43               0
+1064 finished     T1_US_FNAL              0:07:44       1067         83          0          0    0:00:38               0
+1065 finished     T1_US_FNAL              0:06:37       1047         74          0          0    0:00:35               0
+1066 finished     T1_US_FNAL              0:08:35       1069         86          0          0    0:00:39               0
+1067 finished     T1_US_FNAL              0:03:14        922         73          0          0    0:00:36               0
+1068 finished     T1_US_FNAL              0:06:01       1039         75          0          0    0:00:40               0
+1069 finished     T1_FR_CCIN2P3           0:05:06        790         79          0          0    0:00:27               0
+1070 finished     T1_FR_CCIN2P3           0:04:03        810         78          0          0    0:00:31               0
+1071 finished     T1_US_FNAL              0:04:16        959         78          0          0    0:00:31               0
+1072 finished     T1_US_FNAL              0:03:24       1053         76          0          0    0:00:02               0
+1073 finished     T1_FR_CCIN2P3           0:04:04         11         82          0          0    0:00:28               0
+1074 finished     T1_US_FNAL              0:03:55       1029         79          0          0    0:00:05               0
+1075 finished     T1_US_FNAL              0:09:12        976         84          0          0    0:00:09               0
+1076 finished     T1_US_FNAL              0:08:20       1062         90          0          0    0:00:20               0
+1077 finished     T1_US_FNAL              0:06:34       1064         80          0          0    0:05:12               0
+1078 finished     T1_US_FNAL              0:05:04       1037         63          0          0    0:09:21               0
+1079 finished     T1_US_FNAL              0:04:07        958         83          0          0    0:00:26               0
+1080 finished     T1_US_FNAL              0:06:40       1068         88          0          0    0:00:23               0
+1081 finished     T1_US_FNAL              0:05:07        115         61          0          0    0:09:14               0
+1082 finished     T1_FR_CCIN2P3           0:06:33        811         74          0          0    0:05:15               0
+1083 finished     T1_US_FNAL              0:07:55       1070         86          0          0    0:00:21               0
+1084 finished     T1_US_FNAL              0:02:57       1056         73          0          0    0:00:09               0
+1085 finished     T1_DE_KIT               0:07:44       1005         83          0          0    0:00:05               0
+1086 finished     T1_FR_CCIN2P3           0:03:40         49         79          0          0    0:00:21               0
+1087 finished     T1_US_FNAL              0:04:54       1029         59          0          0    0:08:37               0
+1088 finished     T1_US_FNAL              0:07:13       1064         84          0          0    0:00:02               0
+1089 finished     T1_US_FNAL              0:05:07         80         32          0          0    0:02:11               0
+1090 finished     T1_US_FNAL              0:05:06         24         37          0          0    0:07:39               0
+1091 finished     T1_US_FNAL              0:05:19       1054         70          0          0    0:05:14               0
+1092 finished     T1_US_FNAL              0:05:02       1045         73          0          0    0:09:58               0
+1093 finished     T1_FR_CCIN2P3           0:05:05        676         16          0          0    0:06:27               0
+1094 finished     T2_IT_Legnaro           0:01:53        668         44          0          0    0:03:39               0
+1095 finished     T2_IT_Legnaro           0:04:11        802         68          0          0    0:02:00               0
+1096 finished     T1_FR_CCIN2P3           0:05:00         46         64          0          0    0:09:49               0
+1097 finished     T1_US_FNAL              0:04:55        107          1          0          0    0:05:58               0
+1098 finished     T2_ES_CIEMAT            0:03:43       1054         83          0          0    0:02:03               0
+1099 finished     T2_ES_CIEMAT            0:03:39        993         80          0          0    0:01:59               0
+1100 finished     T2_ES_CIEMAT            0:05:52         70         54          0          0    0:02:02               0
+1101 finished     T2_ES_CIEMAT            0:03:25       1071         81          0          0    0:01:59               0
+1102 finished     T2_ES_CIEMAT            0:05:15       1060         86          0          0    0:02:04               0
+1103 finished     T2_ES_CIEMAT            0:03:55       1009         82          0          0    0:02:03               0
+1104 finished     T2_ES_CIEMAT            0:04:13        112         80          0          0    0:02:04               0
+1105 finished     T2_ES_CIEMAT            0:03:53       1058         85          0          0    0:02:04               0
+1106 finished     T2_ES_CIEMAT            0:07:26       1061         83          0          0    0:02:04               0
+1107 finished     T2_ES_CIEMAT            0:04:54       1081         89          0          0    0:01:59               0
+1108 finished     T2_ES_CIEMAT            0:06:19       1056         91          0          0    0:02:02               0
+1109 finished     T2_ES_CIEMAT            0:04:54       1061         86          0          0    0:02:01               0
+1110 finished     T2_ES_CIEMAT            0:05:05       1065         85          0          0    0:01:59               0
+1111 finished     T2_ES_CIEMAT            0:05:05       1069         87          0          0    0:01:59               0
+1112 finished     T2_ES_CIEMAT            0:04:43       1029         87          0          0    0:01:59               0
+1113 finished     T2_ES_CIEMAT            0:04:54       1069         58          0          0    0:08:19               0
+1114 finished     T2_ES_CIEMAT            0:04:25        109         82          0          0    0:01:59               0
+1115 finished     T2_ES_CIEMAT            0:03:31        937         85          0          0    0:01:57               0
+1116 finished     T2_ES_CIEMAT            0:05:38         71         58          0          0    0:01:57               0
+1117 finished     T2_ES_CIEMAT            0:07:15       1060         71          0          0    0:01:59               0
+1118 finished     T2_ES_CIEMAT            0:05:41       1058         87          0          0    0:03:35               0
+1119 finished     T2_ES_CIEMAT            0:04:39       1042         89          0          0    0:01:57               0
+1120 finished     T2_ES_CIEMAT            0:03:37        114         85          0          0    0:03:40               0
+1121 finished     T2_ES_CIEMAT            0:05:34        108         61          0          0    0:01:59               0
+1122 finished     T2_ES_CIEMAT            0:03:24        108         72          0          0    0:01:59               0
+1123 finished     T2_ES_CIEMAT            0:03:25       1090         86          0          0    0:02:01               0
+1124 finished     T2_ES_CIEMAT            0:04:01         58         81          0          0    0:01:57               0
+1125 finished     T2_ES_CIEMAT            0:04:48         91         81          0          0    0:01:59               0
+1126 finished     T2_ES_CIEMAT            0:03:50        931         81          0          0    0:01:59               0
+1127 finished     T2_ES_CIEMAT            0:05:09       1060         87          0          0    0:05:11               0
+1128 finished     T2_ES_CIEMAT            0:04:05         48         84          0          0    0:01:55               0
+1129 finished     T2_ES_CIEMAT            0:03:54       1036         81          0          0    0:03:41               0
+1130 finished     T2_ES_CIEMAT            0:04:24        973         84          0          0    0:03:37               0
+1131 finished     T2_ES_CIEMAT            0:04:01       1073         83          0          0    0:01:57               0
+1132 finished     T2_ES_CIEMAT            0:05:30       1075         84          0          0    0:01:56               0
+1133 finished     T2_ES_CIEMAT            0:01:51       1083         67          0          0    0:01:57               0
+1134 finished     T2_ES_CIEMAT            0:03:36       1051         84          0          0    0:03:31               0
+1135 finished     T2_ES_CIEMAT            0:05:16       1052         84          0          0    0:03:30               0
+1136 finished     T2_ES_CIEMAT            0:03:21       1043         77          0          0    0:06:28               0
+1137 finished     T2_ES_CIEMAT            0:19:57       1048         90          0          0    0:03:35               0
+1138 finished     T2_ES_CIEMAT            0:05:14       1054         84          0          0    0:03:35               0
+1139 finished     T2_ES_CIEMAT            0:16:14       1076         88          0          0    0:03:25               0
+1140 finished     T2_ES_CIEMAT            0:04:25       1054         83          0          0    0:03:28               0
+1141 finished     T2_ES_CIEMAT            0:17:09       1055         87          0          0    0:03:35               0
+1142 finished     T2_ES_CIEMAT            0:07:14       1068         89          0          0    0:03:33               0
+1143 finished     T2_ES_CIEMAT            0:04:23       1062         71          0          0    0:03:35               0
+1144 finished     T2_ES_CIEMAT            0:04:19       1054         81          0          0    0:03:33               0
+1145 finished     T2_ES_CIEMAT            0:04:03       1057         72          0          0    0:03:31               0
+1146 finished     T2_ES_CIEMAT            0:06:37       1074         82          0          0    0:03:35               0
+1147 finished     T2_ES_CIEMAT            0:03:58        939         85          0          0    0:03:30               0
+1148 finished     T2_ES_CIEMAT            0:14:01       1081         86          0          0    0:03:21               0
+1149 finished     T2_ES_CIEMAT            0:05:03         70         83          0          0    0:03:28               0
+1150 finished     T2_ES_CIEMAT            0:03:47       1029         84          0          0    0:03:31               0
+1151 finished     T2_ES_CIEMAT            0:06:33       1074         83          0          0    0:03:31               0
+1152 finished     T2_ES_CIEMAT            0:04:51        118         82          0          0    0:03:28               0
+1153 finished     T2_ES_CIEMAT            0:03:44       1063         82          0          0    0:03:25               0
+1154 finished     T2_ES_CIEMAT            0:03:54       1075         84          0          0    0:03:24               0
+1155 finished     T2_ES_CIEMAT            0:04:05        106         84          0          0    0:03:23               0
+1156 finished     T2_ES_CIEMAT            0:03:40        952         85          0          0    0:03:28               0
+1157 finished     T2_ES_CIEMAT            0:04:17        939         79          0          0    0:03:27               0
+1158 finished     T2_ES_CIEMAT            0:05:55       1067         81          0          0    0:03:23               0
+1159 finished     T2_ES_CIEMAT            0:03:33       1073         83          0          0    0:03:25               0
+1160 finished     T2_ES_CIEMAT            0:04:42        864         88          0          0    0:03:24               0
+1161 finished     T2_ES_CIEMAT            0:05:26       1064         78          0          0    0:03:25               0
+1162 finished     T2_ES_CIEMAT            0:04:19        114         77          0          0    0:03:26               0
+1163 finished     T2_ES_CIEMAT            0:04:03        910         79          0          0    0:03:24               0
+1164 finished     T2_ES_CIEMAT            0:13:03       1054         88          0          0    0:03:23               0
+1165 finished     T2_ES_CIEMAT            0:03:39        111         85          0          0    0:03:23               0
+1166 finished     T2_ES_CIEMAT            0:16:27       1058         88          0          0    0:03:24               0
+1167 finished     T2_ES_CIEMAT            0:03:29       1060         83          0          0    0:03:23               0
+1168 finished     T2_ES_CIEMAT            0:03:32       1061         86          0          0    0:03:17               0
+1169 finished     T2_ES_CIEMAT            0:06:17       1070         85          0          0    0:03:22               0
+1170 finished     T2_ES_CIEMAT            0:05:09        956         82          0          0    0:03:20               0
+1171 finished     T2_ES_CIEMAT            0:12:45       1074         86          0          0    0:03:21               0
+1172 finished     T2_ES_CIEMAT            0:06:17       1055         90          0          0    0:03:31               0
+1173 finished     T2_ES_CIEMAT            0:03:26       1068         84          0          0    0:03:22               0
+1174 finished     T2_ES_CIEMAT            0:04:14       1057         79          0          0    0:03:22               0
+1175 finished     T2_ES_CIEMAT            0:03:40       1060         83          0          0    0:03:14               0
+1176 finished     T2_ES_CIEMAT            0:13:07       1047         87          0          0    0:03:21               0
+1177 finished     T2_ES_CIEMAT            0:04:16         99         78          0          0    0:03:23               0
+1178 finished     T2_ES_CIEMAT            0:04:06        108         81          0          0    0:03:14               0
+1179 finished     T2_ES_CIEMAT            0:05:00        936         89          0          0    0:03:24               0
+1180 finished     T2_ES_CIEMAT            0:05:19       1033         84          0          0    0:02:58               0
+1181 finished     T2_ES_CIEMAT            0:04:44        985         89          0          0    0:03:02               0
+1182 finished     T2_ES_CIEMAT            0:04:01        954         83          0          0    0:02:56               0
+1183 finished     T2_ES_CIEMAT            0:22:29       1079         83          0          0    0:03:22               0
+1184 finished     T2_ES_CIEMAT            0:05:07       1068         89          0          0    0:03:26               0
+1185 finished     T2_ES_CIEMAT            0:06:05       1036         88          0          0    0:03:26               0
+1186 finished     T2_ES_CIEMAT            0:04:06        111         80          0          0    0:03:03               0
+1187 finished     T2_ES_CIEMAT            0:06:28       1071         86          0          0    0:02:41               0
+1188 finished     T2_ES_CIEMAT            0:04:16       1064         81          0          0    0:03:13               0
+1189 finished     T2_ES_CIEMAT            0:06:08       1076         87          0          0    0:02:27               0
+1190 finished     T2_ES_CIEMAT            0:04:12       1091         85          0          0    0:02:14               0
+1191 finished     T2_ES_CIEMAT            0:05:43       1069         87          0          0    0:02:24               0
+1192 finished     T2_ES_CIEMAT            0:06:20       1079         90          0          0    0:01:54               0
+1193 finished     T2_ES_CIEMAT            0:04:22         73         52          0          0    0:02:11               0
+1194 finished     T2_ES_CIEMAT            0:05:50       1054         87          0          0    0:02:19               0
+1195 finished     T2_ES_CIEMAT            0:06:08       1078         88          0          0    0:02:00               0
+1196 finished     T2_ES_CIEMAT            0:05:08       1064         87          0          0    0:02:00               0
+1197 finished     T2_ES_CIEMAT            0:03:25       1073         80          0          0    0:01:10               0
+1198 finished     T2_ES_CIEMAT            0:03:14       1070         80          0          0    0:00:21               0
+1199 finished     T1_US_FNAL              0:04:58       1072         55          0          0    0:08:29               0
+1200 finished     T2_ES_CIEMAT            0:06:14       1082         90          0          0    0:05:07               0
+1201 finished     T2_ES_CIEMAT            0:05:09       1072         86          0          0    0:01:13               0
+1202 finished     T2_ES_CIEMAT            0:06:17       1069         90          0          0    0:01:28               0
+1203 finished     T2_ES_CIEMAT            0:04:59        114         86          0          0    0:09:57               0
+1204 finished     T2_ES_CIEMAT            0:04:05         89         82          0          0    0:00:48               0
+1205 finished     T2_ES_CIEMAT            0:05:53       1019         86          0          0    0:01:13               0
+1206 finished     T2_EE_Estonia           0:05:25        864         76          0          0    0:01:57               0
+1207 finished     T2_EE_Estonia           0:07:04       1016         76          0          0    0:01:59               0
+1208 finished     T2_EE_Estonia           0:05:54       1036         82          0          0    0:01:59               0
+1209 finished     T2_EE_Estonia           0:05:43        987         82          0          0    0:02:01               0
+1210 finished     T2_EE_Estonia           0:04:53        932         83          0          0    0:01:59               0
+1211 finished     T2_EE_Estonia          11:27:46       1020          1          0          0    0:01:57               0
+1212 finished     T2_EE_Estonia           0:12:22        999         71          0          0    0:02:00               0
+1213 finished     T2_EE_Estonia           0:09:46       1011         74          0          0    0:01:59               0
+1214 finished     T2_EE_Estonia           0:09:16        978         82          0          0    0:01:57               0
+1215 finished     T2_EE_Estonia           0:07:52       1005         86          0          0    0:01:57               0
+1216 finished     T2_EE_Estonia          11:16:20       1010          1          0          0    0:03:30               0
+1217 finished     T2_EE_Estonia           0:10:40       1003         75          0          0    0:01:58               0
+1218 finished     T2_EE_Estonia           0:08:26        998         78          0          0    0:03:30               0
+1219 finished     T2_EE_Estonia           0:10:40       1015         70          0          0    0:03:31               0
+1220 finished     T2_EE_Estonia           0:10:15        904         79          0          0    0:03:31               0
+1221 finished     T2_EE_Estonia          11:21:19       1009          1          0          0    0:03:21               0
+1222 finished     T2_EE_Estonia           0:09:40       1010         77          0          0    0:03:24               0
+1223 finished     T2_EE_Estonia          11:16:49       1006          1          0          0    0:03:28               0
+1224 finished     T2_EE_Estonia          11:21:10       1009          1          0          0    0:03:26               0
+1225 finished     T2_EE_Estonia           0:08:40        989         57          0          0    0:03:28               0
+1226 finished     T2_EE_Estonia           0:10:52       1015         73          0          0    0:03:24               0
+1227 finished     T2_EE_Estonia           0:09:00       1022         81          0          0    0:03:23               0
+1228 finished     T2_EE_Estonia           0:11:08        989         74          0          0    0:03:21               0
+1229 finished     T2_EE_Estonia           0:11:38       1019         64          0          0    0:03:22               0
+1230 finished     T2_EE_Estonia          11:17:34       1018          1          0          0    0:03:24               0
+1231 finished     T2_EE_Estonia           0:09:38        986         58          0          0    0:03:18               0
+1232 finished     T2_EE_Estonia           0:07:50       1016         87          0          0    0:02:11               0
+1233 finished     T2_EE_Estonia          11:19:05        957          1          0          0    0:03:23               0
+1234 finished     T2_EE_Estonia          11:18:50        898          1          0          0    0:03:19               0
+1235 finished     T2_EE_Estonia          11:22:53       1007          1          0          0    0:03:21               0
+1236 finished     T2_EE_Estonia           0:10:00       1015         72          0          0    0:03:25               0
+1237 finished     T1_US_FNAL              0:05:16        707         84          0          0    0:01:52               0
+1238 finished     T2_EE_Estonia          11:21:16       1012          1          0          0    0:03:23               0
+1239 finished     T2_EE_Estonia           0:12:10        990         66          0          0    0:03:20               0
+1240 finished     T2_EE_Estonia           0:11:24       1006         66          0          0    0:03:20               0
+1241 finished     T2_EE_Estonia          11:20:40       1017          1          0          0    0:03:19               0
+1242 finished     T2_EE_Estonia           0:08:29       1016         81          0          0    0:03:20               0
+1243 finished     T2_EE_Estonia          11:15:37       1011          1          0          0    0:03:20               0
+1244 finished     T1_US_FNAL              0:04:48        992         69          0          0    0:09:16               0
+1245 finished     T2_EE_Estonia           0:07:13       1011         86          0          0    0:01:13               0
+1246 finished     T1_US_FNAL              0:04:58         67         79          0          0    0:05:00               0
+1247 finished     T1_US_FNAL              0:05:15       1031         75          0          0    0:04:57               0
+1248 finished     T2_EE_Estonia           0:09:01       1020         86          0          0    0:01:08               0
+1249 finished     T2_EE_Estonia           0:08:40        959         85          0          0    0:01:33               0
+1250 finished     T2_EE_Estonia          11:13:36        982          1          0          0    0:05:09               0
+1251 finished     T1_US_FNAL              0:04:51       1033         41          0          0    0:07:39               0
+1252 finished     T1_US_FNAL              0:04:30       1016         70          0          0    0:08:36               0
+1253 finished     T1_US_FNAL              0:05:12         49         64          0          0    0:04:45               0
+1254 finished     T1_US_FNAL              0:09:37       1035         80          0          0    0:04:39               0
+1255 finished     T1_FR_CCIN2P3           0:04:39        801         68          0          0    0:09:15               0
+1256 finished     T1_US_FNAL              0:08:54       1055         88          0          0    0:04:55               0
+1257 finished     T1_US_FNAL              0:06:36       1042         71          0          0    0:04:32               0
+1258 finished     T1_US_FNAL              0:08:26       1072         89          0          0    0:04:33               0
+1259 finished     T1_US_FNAL              0:04:31       1047         75          0          0    0:08:34               0
+1260 finished     T1_US_FNAL              0:04:55       1002         79          0          0    0:04:52               0
+1261 finished     T1_US_FNAL              0:07:30       1069         89          0          0    0:04:26               0
+1262 finished     T1_US_FNAL              0:04:15         66         40          0          0    0:06:45               0
+1263 finished     T1_DE_KIT               0:07:06       1001         82          0          0    0:04:44               0
+1264 finished     T1_FR_CCIN2P3           0:04:29        782         57          0          0    0:08:07               0
+1265 finished     T1_US_FNAL              0:04:23       1051         77          0          0    0:08:34               0
+1266 finished     T1_DE_KIT               0:06:39       1022         84          0          0    0:04:42               0
+1267 finished     T1_US_FNAL              0:04:24       1030         71          0          0    0:04:30               0
+1268 finished     T1_US_FNAL              0:07:41        726         85          0          0    0:04:33               0
+1269 finished     T1_US_FNAL              0:11:04       1060         75          0          0    0:04:18               0
+1270 finished     T1_US_FNAL              0:04:12       1056         70          0          0    0:08:00               0
+1271 finished     T1_US_FNAL              0:09:20        969         87          0          0    0:04:30               0
+1272 finished     T1_US_FNAL              0:04:28       1043         72          0          0    0:08:51               0
+1273 finished     T2_EE_Estonia           0:07:24       1007         86          0          0    0:04:17               0
+1274 finished     T1_US_FNAL              0:09:11       1067         85          0          0    0:04:24               0
+1275 finished     T1_US_FNAL              0:05:00        951         65          0          0    0:04:18               0
+1276 finished     T1_US_FNAL              0:08:16       1071         85          0          0    0:04:23               0
+1277 finished     T1_US_FNAL              0:05:54       1046         74          0          0    0:04:10               0
+1278 finished     T1_US_FNAL              0:04:12       1030         65          0          0    0:08:06               0
+1279 finished     T1_US_FNAL              0:03:56       1022         47          0          0    0:06:54               0
+1280 finished     T1_FR_CCIN2P3           0:05:36        739         83          0          0    0:04:06               0
+1281 finished     T1_DE_KIT               0:07:34        997         84          0          0    0:04:12               0
+1282 finished     T1_US_FNAL              0:04:31        963         78          0          0    0:04:10               0
+1283 finished     T1_US_FNAL              0:05:12       1011         83          0          0    0:04:11               0
+1284 finished     T1_FR_CCIN2P3           0:05:50        800         82          0          0    0:04:12               0
+1285 finished     T1_US_FNAL              0:04:28       1028         75          0          0    0:04:13               0
+1286 finished     T1_FR_CCIN2P3           0:04:53        817         84          0          0    0:04:03               0
+1287 finished     T1_US_FNAL              0:10:16       1057         80          0          0    0:04:04               0
+1288 finished     T1_US_FNAL              0:04:00        937         75          0          0    0:07:52               0
+1289 finished     T1_US_FNAL              0:05:02       1011         74          0          0    0:04:03               0
+1290 finished     T2_EE_Estonia           0:06:47        980         82          0          0    0:04:00               0
+1291 finished     T1_DE_KIT               0:07:41       1031         84          0          0    0:04:03               0
+1292 finished     T1_US_FNAL              0:08:44       1032         90          0          0    0:03:57               0
+1293 finished     T2_EE_Estonia           0:10:37        944         74          0          0    0:03:58               0
+1294 finished     T1_US_FNAL              0:03:59       1053         77          0          0    0:03:53               0
+1295 finished     T1_US_FNAL              0:04:27       1044         78          0          0    0:03:57               0
+1296 finished     T1_US_FNAL              0:04:30         52         64          0          0    0:03:33               0
+1297 finished     T1_US_FNAL              0:08:47       1042         85          0          0    0:03:41               0
+1298 finished     T1_FR_CCIN2P3           0:05:49        795         85          0          0    0:03:55               0
+1299 finished     T1_US_FNAL              0:04:31        966         82          0          0    0:03:59               0
+1300 finished     T1_US_FNAL              0:06:54       1056         70          0          0    0:03:52               0
+1301 finished     T2_EE_Estonia           0:09:06        948         71          0          0    0:03:57               0
+1302 finished     T1_DE_KIT               0:05:23       1003         81          0          0    0:03:45               0
+1303 finished     T1_FR_CCIN2P3           0:05:27        791         87          0          0    0:03:48               0
+1304 finished     T1_US_FNAL              0:06:22       1017         74          0          0    0:03:53               0
+1305 finished     T1_US_FNAL              0:03:37       1031         59          0          0    0:06:51               0
+1306 finished     T1_US_FNAL              0:04:47       1055         74          0          0    0:03:43               0
+1307 finished     T1_US_FNAL              0:03:52       1034         77          0          0    0:03:33               0
+1308 finished     T1_FR_CCIN2P3           0:05:21        795         84          0          0    0:03:43               0
+1309 finished     T1_US_FNAL              0:04:56         99         72          0          0    0:03:09               0
+1310 finished     T1_US_FNAL              0:05:54       1027         72          0          0    0:03:37               0
+1311 finished     T1_US_FNAL              0:03:27       1016         54          0          0    0:06:11               0
+1312 finished     T1_US_FNAL              0:03:27       1009         68          0          0    0:06:46               0
+1313 finished     T1_US_FNAL              0:03:41        952         75          0          0    0:03:38               0
+1314 finished     T1_US_FNAL              0:03:26       1043         71          0          0    0:06:52               0
+1315 finished     T1_US_FNAL              0:04:03         55         77          0          0    0:03:28               0
+1316 finished     T1_US_FNAL              0:08:28       1053         82          0          0    0:03:31               0
+1317 finished     T1_US_FNAL              0:03:56       1058         82          0          0    0:03:32               0
+1318 finished     T1_DE_KIT               0:07:14        984         83          0          0    0:03:36               0
+1319 finished     T1_US_FNAL              0:09:30       1066         78          0          0    0:03:34               0
+1320 finished     T1_US_FNAL              0:04:40        943         74          0          0    0:03:26               0
+1321 finished     T1_FR_CCIN2P3           0:04:07        799         85          0          0    0:03:30               0
+1322 finished     T1_US_FNAL              0:04:41         59         74          0          0    0:03:24               0
+1323 finished     T1_FR_CCIN2P3           0:05:46        737         70          0          0    0:03:25               0
+1324 finished     T1_DE_KIT               0:05:59        926         82          0          0    0:03:32               0
+1325 finished     T1_US_FNAL              0:05:22       1038         67          0          0    0:03:16               0
+1326 finished     T1_US_FNAL              0:03:36       1044         75          0          0    0:03:21               0
+1327 finished     T1_US_FNAL              0:07:56       1042         66          0          0    0:03:26               0
+1328 finished     T1_FR_CCIN2P3           0:04:37        814         85          0          0    0:03:26               0
+1329 finished     T1_US_FNAL              0:08:17       1062         88          0          0    0:03:16               0
+1330 finished     T1_FR_CCIN2P3           0:05:44        798         85          0          0    0:03:22               0
+1331 finished     T1_US_FNAL              0:10:54        989         72          0          0    0:03:23               0
+1332 finished     T1_FR_CCIN2P3           0:03:50        758         80          0          0    0:03:14               0
+1333 finished     T1_FR_CCIN2P3           0:06:17        819         79          0          0    0:03:09               0
+1334 finished     T1_US_FNAL              0:05:10         53         65          0          0    0:03:11               0
+1335 finished     T1_US_FNAL              0:05:29       1060         81          0          0    0:03:15               0
+1336 finished     T1_US_FNAL              0:05:00       1012         72          0          0    0:03:17               0
+1337 finished     T1_US_FNAL              0:05:18       1037         71          0          0    0:03:07               0
+1338 finished     T1_US_FNAL              0:04:18       1025         76          0          0    0:03:11               0
+1339 finished     T1_US_FNAL              0:03:14        950         72          0          0    0:03:05               0
+1340 finished     T1_FR_CCIN2P3           0:04:44       1153         86          0          0    0:03:14               0
+1341 finished     T1_US_FNAL              0:04:40       1044         82          0          0    0:02:53               0
+1342 finished     T1_US_FNAL              0:08:16       1053         89          0          0    0:03:08               0
+1343 finished     T1_US_FNAL              0:04:13        999         74          0          0    0:03:01               0
+1344 finished     T1_US_FNAL              0:04:41         53         84          0          0    0:03:06               0
+1345 finished     T1_US_FNAL              0:03:35       1005         75          0          0    0:03:01               0
+1346 finished     T1_US_FNAL              0:03:50       1015         67          0          0    0:02:57               0
+1347 finished     T2_EE_Estonia           0:06:09       1017         84          0          0    0:02:28               0
+1348 finished     T1_US_FNAL              0:04:52        947         86          0          0    0:03:05               0
+1349 finished     T1_US_FNAL              0:08:26       1067         86          0          0    0:03:04               0
+1350 finished     T1_US_FNAL              0:03:54       1037         79          0          0    0:03:06               0
+1351 finished     T1_US_FNAL              0:03:41       1015         76          0          0    0:03:03               0
+1352 finished     T1_US_FNAL              0:04:18         75         71          0          0    0:02:56               0
+1353 finished     T1_DE_KIT               0:05:37       1005         82          0          0    0:03:09               0
+1354 finished     T1_US_FNAL              0:04:25       1048         80          0          0    0:02:39               0
+1355 finished     T1_US_FNAL              0:03:02       1045         72          0          0    0:02:52               0
+1356 finished     T1_FR_CCIN2P3           0:03:44        787         76          0          0    0:03:06               0
+1357 finished     T2_EE_Estonia           0:08:56        897         84          0          0    0:02:53               0
+1358 finished     T1_US_FNAL              0:04:54       1023         79          0          0    0:02:57               0
+1359 finished     T1_US_FNAL              0:02:55       1053         81          0          0    0:03:00               0
+1360 finished     T1_DE_KIT               0:05:24        972         83          0          0    0:03:01               0
+1361 finished     T1_US_FNAL              0:05:02       1019         79          0          0    0:03:00               0
+1362 finished     T1_US_FNAL              0:03:54       1019         68          0          0    0:02:54               0
+1363 finished     T1_FR_CCIN2P3           0:05:14        806         85          0          0    0:02:48               0
+1364 finished     T1_US_FNAL              0:03:41       1027         79          0          0    0:02:50               0
+1365 finished     T1_US_FNAL              0:04:32       1043         74          0          0    0:02:52               0
+1366 finished     T1_FR_CCIN2P3           0:03:37         64         68          0          0    0:02:41               0
+1367 finished     T1_US_FNAL              0:05:56       1019         69          0          0    0:02:54               0
+1368 finished     T1_US_FNAL              0:04:23       1026         79          0          0    0:02:50               0
+1369 finished     T1_US_FNAL              0:04:16        107         80          0          0    0:02:52               0
+1370 finished     T1_DE_KIT               0:05:51        999         83          0          0    0:02:46               0
+1371 finished     T1_US_FNAL              0:03:21       1074         68          0          0    0:02:47               0
+1372 finished     T1_US_FNAL              0:04:10       1058         74          0          0    0:02:52               0
+1373 finished     T1_US_FNAL              0:03:51       1020         78          0          0    0:02:52               0
+1374 finished     T1_FR_CCIN2P3           0:05:45        802         76          0          0    0:02:48               0
+1375 finished     T1_US_FNAL              0:08:27        677         81          0          0    0:02:46               0
+1376 finished     T1_FR_CCIN2P3           0:05:59        798         79          0          0    0:02:46               0
+1377 finished     T1_US_FNAL              0:04:42       1027         77          0          0    0:02:36               0
+1378 finished     T1_FR_CCIN2P3           0:05:24        812         80          0          0    0:02:45               0
+1379 finished     T1_FR_CCIN2P3           0:05:33        794         84          0          0    0:02:51               0
+1380 finished     T1_FR_CCIN2P3           0:04:23        816         84          0          0    0:02:50               0
+1381 finished     T1_FR_CCIN2P3           0:05:01        803         85          0          0    0:02:48               0
+1382 finished     T1_FR_CCIN2P3           0:05:32        821         83          0          0    0:02:48               0
+1383 finished     T1_FR_CCIN2P3           0:03:26        733         83          0          0    0:02:50               0
+1384 finished     T1_DE_KIT               0:07:22        998         85          0          0    0:02:49               0
+1385 finished     T1_FR_CCIN2P3           0:04:52        725         67          0          0    0:02:47               0
+1386 finished     T1_FR_CCIN2P3           0:04:24         82         82          0          0    0:02:41               0
+1387 finished     T1_FR_CCIN2P3           0:03:54        713         74          0          0    0:02:50               0
+1388 finished     T1_FR_CCIN2P3           0:05:05        782         87          0          0    0:02:47               0
+1389 finished     T1_DE_KIT               0:06:21        997         84          0          0    0:02:49               0
+1390 finished     T1_US_FNAL              0:06:58       1037         77          0          0    0:02:45               0
+1391 finished     T1_DE_KIT               0:08:08        968         85          0          0    0:02:49               0
+1392 finished     T1_US_FNAL              0:06:18       1034         69          0          0    0:02:43               0
+1393 finished     T1_US_FNAL              0:04:20       1038         80          0          0    0:02:39               0
+1394 finished     T1_DE_KIT               0:04:28        980         79          0          0    0:02:48               0
+1395 finished     T1_US_FNAL              0:04:30       1045         78          0          0    0:02:44               0
+1396 finished     T1_US_FNAL              0:04:51        968         78          0          0    0:02:40               0
+1397 finished     T1_FR_CCIN2P3           0:06:28        785         76          0          0    0:02:47               0
+1398 finished     T1_US_FNAL              0:04:46        830         78          0          0    0:02:40               0
+1399 finished     T1_US_FNAL              0:04:01       1059         80          0          0    0:02:37               0
+1400 finished     T1_US_FNAL              0:04:45        946         85          0          0    0:02:39               0
+1401 finished     T1_FR_CCIN2P3           0:04:25        803         81          0          0    0:02:44               0
+1402 finished     T1_US_FNAL              0:04:01       1034         82          0          0    0:02:36               0
+1403 finished     T1_US_FNAL              0:05:15        667         77          0          0    0:02:37               0
+1404 finished     T1_US_FNAL              0:06:24        956         79          0          0    0:02:30               0
+1405 finished     T1_US_FNAL              0:04:51       1028         80          0          0    0:02:31               0
+1406 finished     T1_FR_CCIN2P3           0:02:35        578         65          2          0    0:09:55               0
+1407 finished     T1_FR_CCIN2P3           0:09:49        760         76          1          0    0:04:29               0
+1408 finished     T1_US_FNAL              0:04:16         55         53          1          0    0:02:54               0
+1409 finished     T1_US_FNAL              0:07:54        987         63          2          0    0:14:53               0
+1410 finished     T1_US_FNAL              0:03:07        966         67          3          0    0:26:28               0
+1411 finished     T1_FR_CCIN2P3           0:06:23        771         78          1          0    0:09:54               0
+1412 finished     T1_FR_CCIN2P3           0:03:28         81         77          5          0    1:58:04               0
+1413 finished     T1_US_FNAL              0:06:25       1054         79          4          0    3:47:04               0
+1414 finished     T1_FR_CCIN2P3           0:03:34        802         71          2          0    0:14:23               0
+1415 finished     T1_FR_CCIN2P3           0:04:57         28         62          2          0    0:15:21               0
+1416 finished     T1_US_FNAL              0:11:33       1058         69          1          0    2:27:25               0
+1417 finished     T1_FR_CCIN2P3           0:04:41         67         54          2          0    0:17:29               0
+1418 transferring T1_IT_CNAF              1:41:22        784          5          5          0    6:04:29  Postprocessing failed
+1419 finished     T1_US_FNAL              0:08:12       1068         87          2          0    0:19:58               0
+1420 finished     T1_FR_CCIN2P3           0:05:01         32         80          1          0    3:14:30               0
+1421 finished     T1_US_FNAL              0:05:01       1037         83          2          0    0:13:57               0
+1422 finished     T1_FR_CCIN2P3           0:05:10        731         75          1          0    0:04:21               0
+1423 finished     T1_US_FNAL              0:08:43       1026         61          2          0    0:16:59               0
+1424 finished     T1_FR_CCIN2P3           0:05:56        750         69          2          0    0:21:24               0
+1425 finished     T1_US_FNAL              0:06:50       1052         72          3          0    3:52:45               0
+1426 finished     T1_US_FNAL              0:08:30       1046         70          3          0    0:44:27               0
+1427 finished     T1_FR_CCIN2P3           0:04:29        806         60          2          0    2:16:29               0
+1428 finished     T1_US_FNAL              0:03:32        988         75          1          0    0:56:12               0
+1429 finished     T2_CH_CSCS              0:08:28        752         27          0          0    0:03:35               0
+1430 finished     T2_CH_CSCS              0:08:17        862         28          0          0    0:03:35               0
+1431 finished     T2_CH_CSCS              0:08:30        939         27          0          0    0:03:37               0
+1432 finished     T2_CH_CSCS              0:04:17         24         12          0          0    0:03:33               0
+1433 finished     T2_CH_CSCS              0:08:39        725         30          0          0    0:03:33               0
+1434 finished     T2_CH_CSCS              0:07:15        965         36          0          0    0:03:33               0
+1435 finished     T2_CH_CSCS              0:09:10        733         29          0          0    0:03:31               0
+1436 finished     T2_CH_CSCS              0:08:40        742         28          0          0    0:03:25               0
+1437 finished     T2_CH_CSCS              0:10:29        742         30          0          0    0:03:29               0
+1438 finished     T2_CH_CSCS              0:05:41        962         34          0          0    0:03:29               0
+1439 finished     T2_CH_CSCS              0:11:40        797         33          0          0    0:03:26               0
+1440 finished     T2_CH_CSCS              0:10:16        737         33          0          0    0:03:31               0
+1441 finished     T2_CH_CSCS              0:09:19        973         29          0          0    0:03:24               0
+1442 finished     T2_CH_CSCS              0:11:46        793         34          0          0    0:03:25               0
+1443 finished     T2_CH_CSCS              0:12:01        974         33          0          0    0:03:24               0
+1444 finished     T2_CH_CSCS              0:08:49        964         29          0          0    0:03:24               0
+1445 finished     T2_CH_CSCS              0:07:46        745         26          0          0    0:03:26               0
+1446 finished     T2_CH_CSCS              0:11:04        923         30          0          0    0:03:24               0
+1447 finished     T1_US_FNAL              0:04:19       1033         53          0          0    0:01:57               0
+1448 finished     T2_CH_CSCS              0:10:48        872         30          0          0    0:03:23               0
+1449 finished     T2_CH_CSCS              0:09:05        877         28          0          0    0:03:24               0
+1450 finished     T2_CH_CSCS              0:07:55        891         26          0          0    0:03:24               0
+1451 finished     T2_CH_CSCS              0:11:09        885         30          0          0    0:03:26               0
+1452 finished     T2_CH_CSCS              0:08:24        846         24          0          0    0:03:23               0
+1453 finished     T2_CH_CSCS              0:08:04        883         26          0          0    0:03:22               0
+1454 finished     T2_CH_CSCS              0:09:43        816         27          0          0    0:03:24               0
+1455 finished     T2_CH_CSCS              0:09:53        965         30          0          0    0:03:21               0
+1456 finished     T2_CH_CSCS              0:09:39        827         28          0          0    0:03:25               0
+1457 finished     T2_CH_CSCS              0:12:02        972         33          0          0    0:03:23               0
+1458 finished     T2_CH_CSCS              0:09:09        826         30          0          0    0:03:24               0
+1459 finished     T2_CH_CSCS              0:10:58        924         31          0          0    0:03:25               0
+1460 finished     T2_CH_CSCS              0:08:06        969         32          0          0    0:04:00               0
+1461 finished     T1_US_FNAL              0:04:05        933         73          0          0    0:02:29               0
+1462 finished     T2_CH_CSCS              0:06:07        977         34          0          0    0:02:52               0
+1463 finished     T1_US_FNAL              0:06:24       1051         79          0          0    0:02:35               0
+1464 finished     T1_US_FNAL              0:03:46       1044         79          0          0    0:02:34               0
+1465 finished     T2_CH_CSCS              0:08:29        874         24          0          0    0:03:23               0
+1466 finished     T2_CH_CSCS              0:10:04        875         26          0          0    0:03:21               0
+1467 finished     T1_US_FNAL              0:08:13       1065         88          0          0    0:02:31               0
+1468 finished     T2_CH_CSCS              0:06:53        964         29          0          0    0:04:00               0
+1469 finished     T1_FR_CCIN2P3           0:03:52         83         79          0          0    0:02:33               0
+1470 finished     T1_US_FNAL              0:04:50       1057         77          0          0    0:02:36               0
+1471 finished     T1_FR_CCIN2P3           0:04:34        817         84          0          0    0:02:39               0
+1472 finished     T2_CH_CSCS              0:13:34        968         31          0          0    0:04:02               0
+1473 finished     T1_US_FNAL              0:03:12        939         76          0          0    0:02:34               0
+1474 finished     T1_US_FNAL              0:04:27       1041         81          0          0    0:02:28               0
+1475 finished     T1_US_FNAL              0:04:52        598         78          0          0    0:02:28               0
+1476 finished     T1_US_FNAL              0:05:06        612         81          0          0    0:02:28               0
+1477 finished     T1_US_FNAL              0:02:22         74         72          0          0    0:04:40               0
+1478 finished     T1_US_FNAL              0:02:20       1047         49          0          0    0:04:15               0
+1479 finished     T1_US_FNAL              0:03:02       1038         76          0          0    0:02:25               0
+1480 finished     T1_US_FNAL              0:05:29        695         70          0          0    0:02:26               0
+1481 finished     T1_US_FNAL              0:04:42       1018         83          0          0    0:02:27               0
+1482 finished     T1_US_FNAL              0:03:43       1036         75          0          0    0:02:26               0
+1483 finished     T1_US_FNAL              0:06:44        980         82          0          0    0:02:24               0
+1484 finished     T1_US_FNAL              0:02:21       1057         65          0          0    0:02:25               0
+1485 finished     T1_US_FNAL              0:03:02        105         78          0          0    0:02:25               0
+1486 finished     T1_US_FNAL              0:03:02         45         74          0          0    0:02:24               0
+1487 finished     T1_US_FNAL              0:04:16         45         68          0          0    0:02:19               0
+1488 finished     T1_FR_CCIN2P3           0:04:15         48         82          0          0    0:02:26               0
+1489 finished     T1_US_FNAL              0:04:32        938         79          0          0    0:02:11               0
+1490 finished     T1_FR_CCIN2P3           0:05:49        743         85          0          0    0:02:25               0
+1491 finished     T1_US_FNAL              0:03:26         46         72          0          0    0:02:23               0
+1492 finished     T1_US_FNAL              0:03:43        984         71          0          0    0:02:19               0
+1493 finished     T1_US_FNAL              0:05:41        921         77          0          0    0:02:20               0
+1494 finished     T1_US_FNAL              0:03:11       1056         73          0          0    0:02:20               0
+1495 finished     T1_US_FNAL              0:03:47        958         83          0          0    0:02:18               0
+1496 finished     T1_US_FNAL              0:02:52       1057         71          0          0    0:02:19               0
+1497 finished     T1_US_FNAL              0:02:41       1057         77          0          0    0:02:20               0
+1498 finished     T1_US_FNAL              0:03:48        962         82          0          0    0:02:17               0
+1499 finished     T1_US_FNAL              0:04:14         79         70          0          0    0:02:19               0
+1500 finished     T1_US_FNAL              0:03:03       1063         70          0          0    0:02:18               0
+1501 finished     T1_US_FNAL              0:04:22       1052         61          0          0    0:02:06               0
+1502 finished     T1_US_FNAL              0:04:38        386         82          0          0    0:02:12               0
+1503 finished     T1_US_FNAL              0:05:32        699         70          0          0    0:02:18               0
+1504 finished     T1_US_FNAL              0:05:00        102         75          0          0    0:02:14               0
+1505 finished     T1_US_FNAL              0:05:20        664         73          0          0    0:02:07               0
+1506 finished     T1_FR_CCIN2P3           0:04:03         76         78          0          0    0:02:18               0
+1507 finished     T1_FR_CCIN2P3           0:05:13         53         79          0          0    0:02:13               0
+1508 finished     T1_US_FNAL              0:04:21         65         70          0          0    0:02:16               0
+1509 finished     T1_US_FNAL              0:06:02        626         70          0          0    0:02:09               0
+1510 finished     T1_US_FNAL              0:04:22       1062         82          0          0    0:02:07               0
+1511 finished     T1_US_FNAL              0:05:28        665         73          0          0    0:02:09               0
+1512 finished     T1_US_FNAL              0:02:26       1036         75          0          0    0:02:13               0
+1513 finished     T1_US_FNAL              0:04:35        963         82          0          0    0:02:06               0
+1514 finished     T1_US_FNAL              0:04:54         63         70          0          0    0:02:09               0
+1515 finished     T1_US_FNAL              0:04:53        702         72          0          0    0:02:06               0
+1516 finished     T1_US_FNAL              0:02:56        931         77          0          0    0:02:03               0
+
+Warning: the average jobs CPU efficiency is less than 50%, please consider to improve the jobs splitting (e.g. config.Data.splitting = 'Automatic') in a new task
+
+Summary of run jobs:
+ * Memory: 47MB min, 1220MB max, 868MB ave
+ * Runtime: 0:01:17 min, 18:07:09 max, 0:53:15 ave
+ * CPU eff: 0% min, 215% max, 8% ave
+ * Waste: 498:00:17 (27% of total)
+
+Log file is /gridgroup/cms/amram/EPR/CMSSW_13_3_3/src/ConeOptimisation/ConeOptimisation/python/crab_projects/crab_EGamma_crab_2022G/crab.log

@@ -6,6 +6,7 @@
 #include <vector>
 
 TString year="2024";
+TString rootFileName = "/eos/lyoeos.in2p3.fr/grid/cms/store/user/damram/DYto2L_M-50_TuneCP5_13p6TeV_pythia8/EGamma_MC_22G/240915_094228/mc2024_run2022GminiAod_reducedEgamma.root";
 
 void plotsGen(TString histLoc, TString histAod) {
     // Ouvrir le fichier ROOT
@@ -115,10 +116,10 @@ void plotsGen1(TString histLoc) {
     canvas->WaitPrimitive();
 }
 
-void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) {
+void plotsGenList(std::vector <TString> list, std::vector <TString> legendname, TString title) {
     // Ouvrir le fichier ROOT
     EColor color[5] = {kBlue, kRed, kGreen, kBlack, kCyan};
-    TFile* file = new TFile("../python/mc"+year+"miniAod.root", "READ");
+    TFile* file = new TFile(rootFileName, "READ");
 
     // Accéder au dossier "demo"
     TDirectory* demoFolder = file->GetDirectory("demo");
@@ -142,6 +143,14 @@ void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) 
         std::cout<<"Histo "<<list[i]<<"integral is : "<<histo[i]->Integral()<<std::endl;
     }
 
+    double maxVal = 0;
+    for (int i = 0; i < histo.size(); i++) {
+        double histMax = histo[i]->GetMaximum();
+        if (histMax > maxVal) {
+            maxVal = histMax;
+        }
+    }
+
     // Créer une nouvelle toile
     TCanvas* canvas = new TCanvas("canvas", "Neutral Isolation (No cut)", 800, 600);
 
@@ -150,17 +159,20 @@ void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) 
 
     // Dessiner le premier histogramme
     TH1D* histo1 = histo[0];
-    histo1->Draw();
+    histo1->Draw("HIST");
     histo1->SetStats(0);
-    histo1->SetTitle("Neutral Isolation");
+    histo1->SetTitle(title);
     histo1->GetXaxis()->SetTitle("Isolation");
     histo1->GetYaxis()->SetTitle("Events (log)");
-    TLegend* legend = new TLegend(0.6, 0.7, 0.8, 0.8);
+    histo1->SetMaximum(maxVal * 1.2);
+    TLegend* legend = new TLegend(0.4, 0.8, 0.8, 0.9);
+    legend->SetFillStyle(0);   // Transparence du fond
+    legend->SetTextFont(42);   // Police claire et lisible
     legend->AddEntry(histo1, legendname[0], "l");
 
     // Superposer le deuxième histogramme
     for (int i=1; i<histo.size(); i++){
-        histo[i]->Draw("SAME");
+        histo[i]->Draw("HIST SAME");
         histo[i]->SetStats(0);
         legend->AddEntry(histo[i], legendname[i], "l");
     }
@@ -173,9 +185,9 @@ void plotsGenList(std::vector <TString> list, std::vector <TString> legendname) 
 
     // Afficher la toile
     canvas->Update();
-    canvas->SaveAs(year+"_"+list[0]+".png");
-    canvas->SaveAs(year+"_"+list[0]+".pdf");
-    canvas->SaveAs(year+"_"+list[0]+".svg");
+    canvas->SaveAs(year+"_"+title+".png");
+    canvas->SaveAs(year+"_"+title+".pdf");
+    canvas->SaveAs(year+"_"+title+".svg");
 
     // Attendre que l'utilisateur ferme la fenêtre graphique
     canvas->WaitPrimitive();
@@ -188,7 +200,8 @@ void plots(){
     // plotsGen("HcalNeutralIso", "HcalNeutralAodIso");
     // plotsGen1("NofRecHit");
     std::cout<<"Starting the list"<<std::endl;
-    std::vector<TString> name = {"HcalNeutralIso", "HcalIsoTreshold", "HcalNeutralAodIso"};
-    std::vector<TString> legend = {"Local Iso", "Local Iso Threshold", "Aod Iso"};
-    plotsGenList(name, legend);
+    std::vector<TString> name = {"HcalTowerIsodr03", "HcalTowerIsodr028", "HcalNeutralAodIso"};
+    std::vector<TString> legend = {"Hcal Tower Isolation dR03", "Hcal Tower Isolation dR028", "Stored Hcal Tower Isolation"};
+    TString title = "reducedEgamma";
+    plotsGenList(name, legend, title);
 }

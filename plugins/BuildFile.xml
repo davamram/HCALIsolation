@@ -11,4 +11,5 @@
 <use name="Geometry/Records"/>
 <use name="Geometry/HcalTowerAlgo"/>
 <use name="CondFormats/DataRecord"/>
+<use name ="SimDataFormats/GeneratorProducts"/>
 <flags EDM_PLUGIN="1"/>

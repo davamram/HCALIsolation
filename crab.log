@@ -1,0 +1,73 @@
+DEBUG 2024-09-13 10:28:25.957 UTC: 	 CRAB Client version: v3.240621
+DEBUG 2024-09-13 10:28:25.957 UTC: 	 Running on: Linux lyoui4.in2p3.fr 3.10.0-1160.114.2.el7.x86_64 #1 SMP Wed Mar 20 15:54:52 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2024-09-13 10:28:25.957 UTC: 	 Executing command: 'checkwrite'
+DEBUG 2024-09-13 10:28:25.957 UTC: 	 Found CRAB cache file /home/cms/amram/.crab3
+DEBUG 2024-09-13 10:28:25.958 UTC: 	 Checking credentials
+DEBUG 2024-09-13 10:28:25.958 UTC: 	 Found proxy file /tmp/x509up_u2414
+DEBUG 2024-09-13 10:28:25.958 UTC: 	 Making sure it has proper VOMS extension
+DEBUG 2024-09-13 10:28:25.958 UTC: 	 Executing command :
+ voms-proxy-info --vo --file /tmp/x509up_u2414
+DEBUG 2024-09-13 10:28:26.722 UTC: 	 output : cms
+
+ error: 
+ retcode : 0
+DEBUG 2024-09-13 10:28:26.722 UTC: 	 Getting proxy life time left
+DEBUG 2024-09-13 10:28:26.722 UTC: 	 Executing command :
+ voms-proxy-info --actimeleft --timeleft --file /tmp/x509up_u2414
+DEBUG 2024-09-13 10:28:27.518 UTC: 	 output : 691129
+691129
+
+ error: 
+ retcode : 0
+DEBUG 2024-09-13 10:28:27.518 UTC: 	 Proxy valid for 191:58:49 hours
+DEBUG 2024-09-13 10:28:27.518 UTC: 	 Retrieving username ...
+DEBUG 2024-09-13 10:28:27.518 UTC: 	 Retrieving username from CRIC...
+DEBUG 2024-09-13 10:28:28.233 UTC: 	 username is damram
+INFO 2024-09-13 10:28:29.230 UTC: 	 Rucio client intialized for account damram
+DEBUG 2024-09-13 10:28:29.231 UTC: 	 Command use: checkwrite
+DEBUG 2024-09-13 10:28:29.231 UTC: 	 Options use: ['--site=T3_FR_IPNL']
+DEBUG 2024-09-13 10:28:29.231 UTC: 	 Instance is None
+DEBUG 2024-09-13 10:28:29.231 UTC: 	 Server base url is None
+DEBUG 2024-09-13 10:28:29.231 UTC: 	 Retrieving username ...
+DEBUG 2024-09-13 10:28:29.231 UTC: 	 Retrieving username from CRIC...
+DEBUG 2024-09-13 10:28:29.863 UTC: 	 username is damram
+INFO 2024-09-13 10:28:29.863 UTC: 	 Will check write permission in the default location /store/user/<username>
+INFO 2024-09-13 10:28:29.864 UTC: 	 Validating LFN /store/user/damram...
+INFO 2024-09-13 10:28:29.864 UTC: 	 LFN /store/user/damram is valid.
+INFO 2024-09-13 10:28:29.877 UTC: 	 Will use `gfal-copy`, `gfal-rm` commands for checking write permissions
+INFO 2024-09-13 10:28:29.877 UTC: 	 Will check write permission in /store/user/damram on site T3_FR_IPNL
+INFO 2024-09-13 10:28:29.904 UTC: 	 Will use PFN: root://lyoeos.in2p3.fr:1094//store/user/damram/crab3checkwrite_20240913_122829_d2de4fcb-9753-46d3-96bf-5977e30c4733/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp
+INFO 2024-09-13 10:28:29.904 UTC: 	 
+Attempting to create (dummy) directory crab3checkwrite_20240913_122829_d2de4fcb-9753-46d3-96bf-5977e30c4733 and copy (dummy) file d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp to /store/user/damram
+
+INFO 2024-09-13 10:28:29.908 UTC: 	 Executing command: which scram >/dev/null 2>&1 && eval `scram unsetenv -sh`; gfal-copy -p -v -t 180 file:///gridgroup/cms/amram/EPR/CMSSW_13_3_3/src/ConeOptimisation/ConeOptimisation/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp 'root://lyoeos.in2p3.fr:1094//store/user/damram/crab3checkwrite_20240913_122829_d2de4fcb-9753-46d3-96bf-5977e30c4733/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp'
+INFO 2024-09-13 10:28:29.908 UTC: 	 Please wait...
+INFO 2024-09-13 10:28:35.284 UTC: 	 Failed running copy command
+INFO 2024-09-13 10:28:35.285 UTC: 	   Stdout:
+    Copying 85 bytes file:///gridgroup/cms/amram/EPR/CMSSW_13_3_3/src/ConeOptimisation/ConeOptimisation/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp => root://lyoeos.in2p3.fr:1094//store/user/damram/crab3checkwrite_20240913_122829_d2de4fcb-9753-46d3-96bf-5977e30c4733/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp
+    event: [1726223314838] BOTH   GFAL2:CORE:COPY	LIST:ENTER	
+    event: [1726223314838] BOTH   GFAL2:CORE:COPY	LIST:ITEM	file:///gridgroup/cms/amram/EPR/CMSSW_13_3_3/src/ConeOptimisation/ConeOptimisation/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp => root://lyoeos.in2p3.fr:1094//store/user/damram/crab3checkwrite_20240913_122829_d2de4fcb-9753-46d3-96bf-5977e30c4733/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp
+    event: [1726223314838] BOTH   GFAL2:CORE:COPY	LIST:EXIT	
+    event: [1726223314839] BOTH   xroot	TRANSFER:ENTER	file://localhost///gridgroup/cms/amram/EPR/CMSSW_13_3_3/src/ConeOptimisation/ConeOptimisation/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp?xrd.gsiusrpxy=/tmp/x509up_u2414&xrdcl.intent=tpc => root://lyoeos.in2p3.fr:1094///store/user/damram/crab3checkwrite_20240913_122829_d2de4fcb-9753-46d3-96bf-5977e30c4733/d2de4fcb-9753-46d3-96bf-5977e30c4733.tmp?xrd.gsiusrpxy=/tmp/x509up_u2414&xrdcl.intent=tpc
+    event: [1726223314840] BOTH   xroot	TRANSFER:TYPE	streamed
+    event: [1726223315221] BOTH   xroot	TRANSFER:EXIT	Job finished, [ERROR] Server responded with an error: [3010] Unable to access(XW) parent directory /eos/lyoeos.in2p3.fr/grid/cms/store/user/damram/; Operation not permitted (destination)
+    
+    event: [1726223315223] DEST   xroot	CLEANUP	0
+    
+INFO 2024-09-13 10:28:35.285 UTC: 	   Stderr:
+    gfal-copy error: 13 (Permission denied) - Error on XrdCl::CopyProcess::Run(): [ERROR] Server responded with an error: [3010] Unable to access(XW) parent directory /eos/lyoeos.in2p3.fr/grid/cms/store/user/damram/; Operation not permitted (destination)
+    
+    
+INFO 2024-09-13 10:28:35.286 UTC: 	 
+Checkwrite Result:
+INFO 2024-09-13 10:28:35.286 UTC: 	 Error: Unable to write in /store/user/damram on site T3_FR_IPNL
+       You may want to contact the site administrators sending them the 'crab checkwrite' output as printed above.
+INFO 2024-09-13 10:28:35.286 UTC: 	 Note: You cannot write to a site if you did not ask permission.
+ERROR 2024-09-13 10:28:35.286 UTC: 	 Command checkwrite failed
+ERROR 2024-09-13 10:28:35.286 UTC: 	 Caught ClientException exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.240621.01/bin/crab.py", line 152, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/share/cms/crab-prod/v3.240621.01/bin/crab.py", line 139, in __call__
+    raise CommandFailedException("Command %s failed" % str(args[0]))
+CRABClient.ClientExceptions.CommandFailedException: Command checkwrite failed
